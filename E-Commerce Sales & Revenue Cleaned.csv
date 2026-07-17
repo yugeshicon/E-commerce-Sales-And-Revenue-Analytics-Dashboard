@@ -1,0 +1,787 @@
+Customer ID,Gender,State,Region,Age,Product Name,Category,Unit Price,Quantity,Total Price,Shipping Fee,Shipping Status,Order Date
+Cust0268,Male,Uttar Pradesh,North,49,Monitor,Electronics,300.0,5,1500.0,13.31,Returned,2023-12-08
+Cust0046,Male,Maharashtra,West,22,Earbuds,Accessories,100.0,2,200.0,6.93,In Transit,2023-04-09
+Cust0169,Female,Bihar,South,54,Monitor,Electronics,300.0,1,300.0,11.31,Returned,2023-08-28
+Cust0002,Male,West Bengal,North,23,Earbuds,Accessories,100.0,5,500.0,12.22,Delivered,2023-01-18
+Cust0147,Male,Tamil Nadu,North,64,Watch,Wearables,200.0,2,400.0,11.26,In Transit,2023-01-11
+Cust0262,Male,Rajasthan,East,27,Watch,Wearables,200.0,1,200.0,18.38,In Transit,2023-10-23
+Cust0159,Female,Karnataka,South,18,Keyboard,Accessories,50.0,2,100.0,15.08,Returned,2023-06-15
+Cust0046,Female,Gujarat,East,22,Mouse,Accessories,30.0,1,30.0,8.22,Returned,2023-02-25
+Cust0023,Male,Andhra Pradesh,West,29,Earbuds,Accessories,100.0,3,300.0,10.7,Delivered,2023-04-23
+Cust0201,Female,Odisha,East,49,Earbuds,Accessories,100.0,2,200.0,9.8,Returned,2023-06-01
+Cust0283,Female,Telangana,West,67,Mouse,Accessories,30.0,3,90.0,5.65,In Transit,2023-09-13
+Cust0199,Female,Kerala,West,41,Keyboard,Accessories,50.0,5,250.0,7.13,Delivered,2023-02-17
+Cust0039,Male,Jharkhand,South,60,Keyboard,Accessories,50.0,4,200.0,10.91,Returned,2023-12-10
+Cust0276,Male,Assam,West,66,Mouse,Accessories,30.0,1,30.0,11.36,In Transit,2023-06-29
+Cust0210,Male,Haryana,South,30,Phone,Electronics,800.0,2,1600.0,11.44,Returned,2023-06-09
+Cust0293,Female,Delhi,East,32,Watch,Wearables,200.0,5,1000.0,7.16,In Transit,2023-06-21
+Cust0049,Female,Jammu & Kashmir,West,59,Monitor,Electronics,300.0,4,1200.0,17.37,In Transit,2023-11-26
+Cust0196,Female,Himachal Pradesh,South,37,Mouse,Accessories,30.0,3,90.0,19.41,Returned,2023-12-27
+Cust0050,Male,Tripura,North,49,Mouse,Accessories,30.0,3,90.0,6.97,Returned,2023-06-06
+Cust0007,Female,Meghalaya,East,52,Earbuds,Accessories,100.0,2,200.0,12.0,In Transit,2023-10-28
+Cust0042,Female,Nagaland,South,57,Keyboard,Accessories,50.0,1,50.0,9.6,Delivered,2023-12-04
+Cust0264,Male,Goa,East,59,Phone,Electronics,1658.43,2,1600.0,11.59,In Transit,2023-02-01
+Cust0053,Female,Arunachal Pradesh,North,25,Watch,Wearables,200.0,1,200.0,14.9,Delivered,2023-08-14
+Cust0154,Female,Mizoram,East,31,Phone,Electronics,800.0,1,800.0,19.22,In Transit,2023-12-07
+Cust0190,Male,Sikkim,North,28,Keyboard,Accessories,50.0,4,200.0,15.31,Delivered,2023-06-28
+Cust0038,Female,Chandigarh,East,57,Monitor,Electronics,300.0,2,600.0,12.38,Returned,2023-11-17
+Cust0124,Female,Andaman & Nicobar Islands,South,53,Monitor,Electronics,300.0,2,600.0,18.38,In Transit,2023-09-05
+Cust0298,Female,Dadra & Nagar Haveli and Daman & Diu,South,58,Earbuds,Accessories,100.0,5,500.0,7.41,Delivered,2023-09-17
+Cust0211,Female,Lakshadweep,South,35,Mouse,Accessories,30.0,3,90.0,11.42,Delivered,2023-12-25
+Cust0284,Female,Uttar Pradesh,West,64,Monitor,Electronics,300.0,1,300.0,6.55,Returned,2023-08-01
+Cust0282,Male,Maharashtra,North,49,Phone,Electronics,800.0,2,1600.0,9.72,Delivered,2023-02-12
+Cust0205,Female,Bihar,South,43,Monitor,Electronics,300.0,2,600.0,18.27,In Transit,2023-05-18
+Cust0299,Male,Madhya Pradesh,East,58,Keyboard,Accessories,50.0,2,100.0,9.57,Returned,2023-08-30
+Cust0064,Male,Tamil Nadu,West,61,Monitor,Electronics,300.0,1,300.0,13.82,Returned,2023-09-15
+Cust0073,Male,Rajasthan,East,19,Keyboard,Accessories,50.0,4,200.0,5.32,Delivered,2023-02-14
+Cust0154,Male,Karnataka,North,31,Keyboard,Accessories,50.0,3,150.0,7.46,Delivered,2023-02-27
+Cust0081,Male,Gujarat,North,38,Monitor,Electronics,300.0,1,300.0,17.22,Returned,2023-08-13
+Cust0247,Male,Andhra Pradesh,East,44,Earbuds,Accessories,100.0,2,200.0,8.15,In Transit,2023-05-09
+Cust0178,Male,Telangana,West,44,Watch,Wearables,200.0,3,600.0,18.09,In Transit,2023-10-28
+Cust0070,Male,Jharkhand,West,23,Monitor,Electronics,300.0,3,900.0,12.58,Returned,2023-04-16
+Cust0122,Male,Assam,West,68,Earbuds,Accessories,100.0,2,200.0,13.49,In Transit,2023-12-13
+Cust0168,Female,Punjab,East,42,Monitor,Electronics,300.0,4,1200.0,18.15,In Transit,2023-03-27
+Cust0176,Male,Chhattisgarh,South,51,Laptop,Electronics,1500.0,2,3000.0,7.43,Delivered,2023-11-16
+Cust0064,Female,Haryana,West,61,Laptop,Electronics,1500.0,2,3000.0,5.42,Returned,2023-06-14
+Cust0057,Male,Uttarakhand,North,62,Keyboard,Accessories,50.0,4,200.0,12.79,Delivered,2023-09-29
+Cust0207,Male,Himachal Pradesh,South,54,Laptop,Electronics,1500.0,1,1500.0,5.16,Delivered,2023-03-14
+Cust0167,Female,Tripura,North,67,Earbuds,Accessories,100.0,2,200.0,11.65,Returned,2023-12-14
+Cust0041,Male,Manipur,East,64,Phone,Electronics,800.0,4,3200.0,17.27,In Transit,2023-08-08
+Cust0112,Male,Nagaland,North,33,Monitor,Electronics,300.0,4,1200.0,14.88,Delivered,2023-04-12
+Cust0244,Female,Goa,West,24,Earbuds,Accessories,100.0,3,300.0,8.49,In Transit,2023-02-21
+Cust0218,Male,Arunachal Pradesh,East,36,Earbuds,Accessories,100.0,2,200.0,7.71,Returned,2023-11-03
+Cust0073,Male,Mizoram,North,19,Monitor,Electronics,300.0,5,1500.0,13.7,In Transit,2023-01-16
+Cust0083,Male,Sikkim,East,28,Monitor,Electronics,300.0,1,300.0,17.98,Returned,2024-01-03
+Cust0065,Female,Chandigarh,East,49,Earbuds,Accessories,100.0,2,200.0,13.06,Returned,2023-02-05
+Cust0060,Male,Andaman & Nicobar Islands,South,41,Keyboard,Accessories,50.0,4,200.0,19.12,Returned,2023-04-03
+Cust0045,Male,Dadra & Nagar Haveli and Daman & Diu,East,21,Mouse,Accessories,30.0,1,30.0,6.17,In Transit,2023-10-23
+Cust0296,Female,Lakshadweep,North,50,Keyboard,Accessories,50.0,2,100.0,13.82,In Transit,2023-07-25
+Cust0077,Male,Uttar Pradesh,South,50,Keyboard,Accessories,50.0,5,250.0,10.89,Delivered,2023-03-19
+Cust0227,Female,Maharashtra,West,54,Keyboard,Accessories,50.0,4,200.0,9.22,Returned,2023-10-05
+Cust0284,Female,Bihar,North,64,Keyboard,Accessories,50.0,3,150.0,17.76,In Transit,2023-04-11
+Cust0245,Male,West Bengal,North,63,Mouse,Accessories,30.0,1,30.0,13.28,Returned,2023-09-11
+Cust0133,Female,Madhya Pradesh,North,47,Phone,Electronics,800.0,1,800.0,11.29,Returned,2023-10-28
+Cust0179,Male,Tamil Nadu,North,45,Keyboard,Accessories,50.0,2,100.0,19.04,Delivered,2023-03-16
+Cust0022,Female,Rajasthan,North,33,Watch,Wearables,200.0,2,400.0,10.07,Delivered,2023-11-21
+Cust0181,Male,Gujarat,East,59,Watch,Wearables,200.0,3,600.0,9.82,In Transit,2023-02-08
+Cust0170,Female,Andhra Pradesh,South,40,Mouse,Accessories,30.0,5,150.0,8.64,Delivered,2023-12-22
+Cust0182,Male,Odisha,West,49,Monitor,Electronics,300.0,5,1500.0,7.77,In Transit,2023-10-24
+Cust0037,Male,Kerala,West,51,Keyboard,Accessories,103.65,4,200.0,11.41,Returned,2023-05-20
+Cust0006,Female,Jharkhand,West,52,Monitor,Electronics,300.0,3,900.0,5.66,Delivered,2023-02-18
+Cust0125,Female,Assam,West,46,Mouse,Accessories,30.0,4,120.0,5.71,Delivered,2024-01-03
+Cust0006,Male,Punjab,North,52,Watch,Wearables,200.0,1,200.0,13.68,Delivered,2023-08-02
+Cust0091,Female,Chhattisgarh,South,30,Mouse,Accessories,30.0,1,30.0,18.29,In Transit,2023-04-19
+Cust0286,Female,Delhi,North,63,Laptop,Electronics,1500.0,1,1500.0,13.15,Delivered,2023-03-08
+Cust0288,Male,Jammu & Kashmir,West,55,Earbuds,Accessories,100.0,2,200.0,16.23,Returned,2023-07-04
+Cust0019,Female,Uttarakhand,East,69,Keyboard,Accessories,50.0,1,50.0,14.53,Returned,2023-04-23
+Cust0236,Male,Himachal Pradesh,East,18,Keyboard,Accessories,50.0,2,100.0,11.25,Returned,2023-03-24
+Cust0159,Male,Tripura,West,18,Keyboard,Accessories,50.0,5,250.0,11.11,Returned,2023-09-11
+Cust0251,Male,Meghalaya,North,42,Mouse,Accessories,30.0,2,60.0,18.98,In Transit,2023-02-02
+Cust0159,Male,Manipur,North,18,Earbuds,Accessories,100.0,1,100.0,18.47,Delivered,2023-08-13
+Cust0064,Male,Nagaland,West,61,Monitor,Electronics,300.0,4,1200.0,18.5,Returned,2023-05-23
+Cust0228,Male,Arunachal Pradesh,North,25,Phone,Electronics,800.0,4,3200.0,18.2,In Transit,2023-01-24
+Cust0024,Female,Mizoram,East,57,Watch,Wearables,200.0,2,400.0,17.94,In Transit,2023-12-08
+Cust0113,Male,Sikkim,South,38,Phone,Electronics,800.0,2,1600.0,16.51,In Transit,2023-09-14
+Cust0192,Female,Chandigarh,North,58,Watch,Wearables,200.0,4,800.0,9.97,Delivered,2023-11-12
+Cust0153,Female,Puducherry,East,40,Monitor,Electronics,300.0,1,300.0,6.85,Returned,2023-06-21
+Cust0203,Male,Ladakh,South,33,Mouse,Accessories,30.0,1,30.0,7.78,In Transit,2023-01-03
+Cust0163,Female,Uttar Pradesh,North,22,Earbuds,Accessories,100.0,3,300.0,6.16,Returned,2023-10-12
+Cust0266,Male,West Bengal,North,49,Mouse,Accessories,30.0,5,150.0,16.86,Returned,2023-11-08
+Cust0227,Male,Madhya Pradesh,West,54,Phone,Electronics,800.0,3,2400.0,18.76,In Transit,2023-12-07
+Cust0008,Female,Gujarat,North,49,Earbuds,Accessories,100.0,5,500.0,16.04,Delivered,2023-02-02
+Cust0015,Male,Andhra Pradesh,West,58,Earbuds,Accessories,100.0,3,300.0,6.08,Returned,2023-03-22
+Cust0002,Male,Odisha,East,23,Phone,Electronics,800.0,1,800.0,12.64,Returned,2023-09-10
+Cust0189,Female,Telangana,South,38,Mouse,Accessories,30.0,1,30.0,10.92,Delivered,2023-02-22
+Cust0137,Male,Kerala,North,19,Phone,Electronics,800.0,3,2400.0,16.82,In Transit,2023-05-20
+Cust0139,Male,Jharkhand,South,49,Watch,Wearables,200.0,2,400.0,9.18,Delivered,2023-06-26
+Cust0033,Female,Assam,South,49,Monitor,Electronics,300.0,2,600.0,15.3,Delivered,2023-04-12
+Cust0297,Male,Punjab,North,61,Monitor,Electronics,300.0,2,600.0,13.84,In Transit,2023-10-10
+Cust0008,Female,Chhattisgarh,North,18,Keyboard,Accessories,50.0,3,150.0,13.86,Delivered,2023-05-29
+Cust0049,Female,Himachal Pradesh,North,59,Laptop,Electronics,1500.0,1,1500.0,12.63,Returned,2023-02-06
+Cust0036,Female,Nagaland,North,33,Keyboard,Accessories,50.0,1,50.0,6.06,Delivered,2023-08-02
+Cust0155,Female,Goa,North,41,Laptop,Electronics,1500.0,2,3000.0,9.21,Returned,2023-02-02
+Cust0138,Male,Arunachal Pradesh,North,46,Keyboard,Accessories,50.0,3,150.0,5.09,Returned,2023-03-16
+Cust0201,Female,Mizoram,North,49,Mouse,Accessories,30.0,2,60.0,8.39,In Transit,2023-11-03
+Cust0197,Female,Sikkim,West,54,Mouse,Accessories,30.0,2,60.0,8.59,Delivered,2023-06-04
+Cust0082,Male,Chandigarh,West,30,Laptop,Electronics,1500.0,1,1500.0,9.98,Delivered,2023-12-04
+Cust0066,Male,Andaman & Nicobar Islands,West,37,Laptop,Electronics,1500.0,2,3000.0,5.69,Returned,2023-01-18
+Cust0026,Female,Dadra & Nagar Haveli and Daman & Diu,East,27,Monitor,Electronics,300.0,1,300.0,16.61,In Transit,2023-11-23
+Cust0078,Female,Lakshadweep,West,38,Watch,Wearables,200.0,4,800.0,18.89,Returned,2023-05-03
+Cust0281,Male,Ladakh,West,44,Keyboard,Accessories,50.0,4,200.0,19.81,In Transit,2023-08-27
+Cust0299,Male,Uttar Pradesh,West,58,Earbuds,Accessories,100.0,5,500.0,14.5,Returned,2023-01-16
+Cust0053,Female,Maharashtra,East,25,Watch,Wearables,200.0,5,1000.0,16.41,In Transit,2023-07-25
+Cust0239,Male,Bihar,North,35,Watch,Wearables,200.0,1,200.0,7.32,Delivered,2023-11-18
+Cust0069,Male,West Bengal,East,49,Earbuds,Accessories,100.0,3,300.0,10.81,Returned,2023-12-07
+Cust0245,Male,Madhya Pradesh,West,63,Mouse,Accessories,30.0,3,90.0,13.95,Returned,2023-05-15
+Cust0258,Female,Tamil Nadu,South,39,Monitor,Electronics,300.0,4,1200.0,9.55,In Transit,2023-05-16
+Cust0177,Male,Rajasthan,South,29,Watch,Wearables,200.0,3,600.0,13.87,In Transit,2023-03-18
+Cust0140,Male,Karnataka,East,49,Earbuds,Accessories,100.0,2,200.0,10.96,Delivered,2023-03-08
+Cust0089,Female,Gujarat,North,27,Mouse,Accessories,30.0,3,90.0,6.45,In Transit,2023-09-19
+Cust0168,Female,Andhra Pradesh,West,42,Phone,Electronics,800.0,2,1600.0,13.79,In Transit,2023-09-25
+Cust0089,Female,Telangana,South,27,Monitor,Electronics,300.0,3,900.0,7.99,In Transit,2023-02-21
+Cust0281,Female,Kerala,West,44,Keyboard,Accessories,50.0,2,100.0,6.45,Returned,2023-08-28
+Cust0044,Male,Jharkhand,East,30,Mouse,Accessories,30.0,5,150.0,16.62,Returned,2023-10-28
+Cust0137,Female,Assam,South,49,Monitor,Electronics,300.0,5,1500.0,6.0,Delivered,2023-11-08
+Cust0174,Female,Punjab,East,68,Laptop,Electronics,1500.0,1,1500.0,16.34,Delivered,2023-05-07
+Cust0141,Female,Chhattisgarh,East,58,Mouse,Accessories,30.0,1,30.0,12.22,In Transit,2023-10-03
+Cust0202,Male,Haryana,South,56,Mouse,Accessories,30.0,3,90.0,5.07,Delivered,2023-01-05
+Cust0259,Male,Delhi,West,59,Laptop,Electronics,1500.0,2,3000.0,7.5,Delivered,2023-08-22
+Cust0045,Female,Jammu & Kashmir,East,21,Phone,Electronics,800.0,3,2400.0,15.78,Delivered,2023-11-07
+Cust0168,Female,Uttarakhand,West,42,Keyboard,Accessories,50.0,1,50.0,15.92,Delivered,2023-06-24
+Cust0228,Male,Tripura,South,25,Mouse,Accessories,30.0,4,120.0,18.6,Returned,2023-06-29
+Cust0199,Female,Meghalaya,South,41,Phone,Electronics,800.0,4,3200.0,16.45,In Transit,2023-01-18
+Cust0065,Male,Manipur,North,41,Earbuds,Accessories,100.0,5,500.0,19.62,Delivered,2023-03-04
+Cust0093,Male,Goa,North,66,Monitor,Electronics,300.0,1,300.0,16.58,Delivered,2023-02-27
+Cust0168,Female,Arunachal Pradesh,South,42,Monitor,Electronics,300.0,1,300.0,14.7,Delivered,2023-11-16
+Cust0216,Male,Mizoram,South,53,Phone,Electronics,800.0,2,1600.0,16.23,In Transit,2023-07-19
+Cust0062,Male,Sikkim,West,43,Earbuds,Accessories,100.0,4,400.0,11.4,Returned,2023-04-24
+Cust0056,Female,Andaman & Nicobar Islands,South,23,Watch,Wearables,200.0,2,400.0,5.73,Returned,2024-01-03
+Cust0247,Male,Dadra & Nagar Haveli and Daman & Diu,South,44,Phone,Electronics,800.0,1,800.0,7.11,In Transit,2023-01-19
+Cust0114,Female,Ladakh,West,60,Monitor,Electronics,300.0,3,900.0,18.61,In Transit,2023-07-21
+Cust0184,Female,Maharashtra,West,54,Mouse,Accessories,30.0,3,90.0,14.78,Returned,2023-06-15
+Cust0075,Female,Bihar,South,56,Monitor,Electronics,300.0,2,600.0,13.6,Delivered,2023-08-16
+Cust0142,Male,West Bengal,East,32,Monitor,Electronics,300.0,1,300.0,15.5,Delivered,2023-04-14
+Cust0076,Male,Madhya Pradesh,East,26,Earbuds,Accessories,100.0,5,500.0,16.96,Delivered,2023-10-24
+Cust0105,Male,Tamil Nadu,East,27,Watch,Wearables,200.0,5,1000.0,12.0,In Transit,2023-07-14
+Cust0004,Female,Rajasthan,West,65,Keyboard,Accessories,50.0,3,150.0,19.62,In Transit,2023-12-06
+Cust0127,Male,Karnataka,North,62,Watch,Wearables,200.0,2,400.0,11.66,Delivered,2023-08-31
+Cust0072,Male,Gujarat,South,21,Earbuds,Accessories,100.0,1,100.0,11.24,Delivered,2023-09-02
+Cust0216,Male,Andhra Pradesh,North,53,Phone,Electronics,800.0,4,3200.0,6.27,Returned,2023-04-06
+Cust0156,Female,Odisha,South,57,Phone,Electronics,800.0,4,3200.0,16.09,In Transit,2023-12-29
+Cust0052,Male,Telangana,North,66,Mouse,Accessories,30.0,4,120.0,8.24,Returned,2023-06-09
+Cust0226,Female,Kerala,West,49,Phone,Electronics,800.0,4,3200.0,17.91,In Transit,2023-06-14
+Cust0270,Female,Jharkhand,West,64,Laptop,Electronics,1500.0,1,1500.0,18.88,Returned,2023-07-14
+Cust0269,Male,Assam,North,64,Monitor,Electronics,621.91,5,1500.0,6.93,Delivered,2023-04-23
+Cust0183,Female,Punjab,West,42,Phone,Electronics,800.0,3,2400.0,7.22,Delivered,2023-10-21
+Cust0205,Male,Chhattisgarh,South,43,Keyboard,Accessories,50.0,2,100.0,5.05,Delivered,2023-10-09
+Cust0080,Female,Haryana,East,51,Earbuds,Accessories,100.0,1,100.0,19.84,Delivered,2023-05-27
+Cust0208,Female,Delhi,West,57,Laptop,Electronics,1500.0,1,1500.0,16.28,Returned,2023-02-01
+Cust0186,Female,Jammu & Kashmir,West,55,Mouse,Accessories,30.0,5,150.0,17.36,In Transit,2023-05-07
+Cust0028,Female,Himachal Pradesh,East,50,Earbuds,Accessories,100.0,5,500.0,16.11,In Transit,2023-11-07
+Cust0083,Male,Tripura,West,28,Keyboard,Accessories,50.0,2,100.0,9.48,Returned,2023-09-14
+Cust0027,Female,Meghalaya,South,36,Monitor,Electronics,300.0,2,600.0,18.44,Returned,2023-03-19
+Cust0203,Female,Manipur,South,33,Keyboard,Accessories,50.0,5,250.0,8.43,In Transit,2023-10-05
+Cust0204,Male,Goa,North,54,Phone,Electronics,800.0,2,1600.0,6.45,Delivered,2023-03-16
+Cust0165,Male,Arunachal Pradesh,West,49,Keyboard,Accessories,50.0,1,50.0,8.97,Returned,2023-05-23
+Cust0269,Male,Mizoram,North,64,Earbuds,Accessories,100.0,3,300.0,11.64,Returned,2023-11-24
+Cust0134,Male,Sikkim,North,49,Monitor,Electronics,621.91,5,1500.0,7.22,Returned,2023-08-05
+Cust0116,Female,Chandigarh,East,49,Earbuds,Accessories,100.0,2,200.0,15.13,Delivered,2023-01-23
+Cust0137,Female,Puducherry,West,19,Phone,Electronics,800.0,3,2400.0,11.21,Returned,2023-08-01
+Cust0100,Male,Andaman & Nicobar Islands,West,29,Keyboard,Accessories,50.0,2,100.0,5.18,Returned,2023-04-14
+Cust0282,Male,Dadra & Nagar Haveli and Daman & Diu,North,68,Watch,Wearables,200.0,3,600.0,7.93,In Transit,2023-06-22
+Cust0094,Male,Lakshadweep,North,30,Laptop,Electronics,1500.0,1,1500.0,14.53,In Transit,2023-04-18
+Cust0194,Female,Ladakh,West,61,Mouse,Accessories,62.19,1,30.0,10.41,Returned,2023-01-28
+Cust0174,Female,Uttar Pradesh,North,49,Phone,Electronics,800.0,4,3200.0,9.45,Returned,2023-05-08
+Cust0273,Female,Maharashtra,South,49,Laptop,Electronics,1500.0,2,3000.0,9.01,In Transit,2023-06-07
+Cust0109,Male,West Bengal,West,57,Keyboard,Accessories,50.0,3,150.0,11.12,In Transit,2023-02-16
+Cust0081,Male,Madhya Pradesh,West,38,Watch,Wearables,200.0,3,600.0,19.89,Returned,2023-08-07
+Cust0189,Female,Rajasthan,East,38,Monitor,Electronics,300.0,1,300.0,11.89,In Transit,2023-05-01
+Cust0092,Female,Karnataka,East,32,Phone,Electronics,800.0,3,2400.0,14.12,In Transit,2023-09-28
+Cust0254,Female,Gujarat,West,49,Mouse,Accessories,30.0,2,60.0,7.56,Delivered,2023-12-25
+Cust0150,Male,Andhra Pradesh,South,63,Earbuds,Accessories,100.0,4,400.0,11.39,Delivered,2023-05-06
+Cust0264,Female,Odisha,West,59,Keyboard,Accessories,103.65,4,200.0,10.49,Delivered,2023-08-21
+Cust0105,Male,Telangana,West,27,Earbuds,Accessories,100.0,3,300.0,17.92,Returned,2023-03-13
+Cust0253,Female,Kerala,West,51,Laptop,Electronics,1500.0,1,1500.0,12.36,Returned,2023-02-28
+Cust0188,Male,Jharkhand,West,29,Monitor,Electronics,300.0,4,1200.0,8.15,Delivered,2023-07-26
+Cust0204,Male,Punjab,East,54,Watch,Wearables,200.0,5,1000.0,10.03,Returned,2023-10-17
+Cust0180,Male,Chhattisgarh,East,68,Monitor,Electronics,300.0,3,900.0,5.0,In Transit,2023-10-18
+Cust0023,Female,Delhi,South,29,Monitor,Electronics,300.0,3,900.0,18.32,Delivered,2023-07-20
+Cust0263,Female,Jammu & Kashmir,West,40,Watch,Wearables,200.0,1,200.0,8.82,Returned,2023-04-08
+Cust0195,Male,Uttarakhand,West,48,Keyboard,Accessories,50.0,3,150.0,16.84,Returned,2023-01-08
+Cust0256,Male,Tripura,East,69,Monitor,Electronics,300.0,4,1200.0,8.25,Returned,2023-08-15
+Cust0131,Male,Meghalaya,North,67,Phone,Electronics,800.0,4,3200.0,14.61,In Transit,2023-09-18
+Cust0279,Female,Manipur,North,59,Mouse,Accessories,30.0,1,30.0,6.08,Returned,2023-02-15
+Cust0250,Female,Nagaland,West,64,Watch,Wearables,200.0,2,400.0,15.94,Delivered,2023-11-28
+Cust0012,Male,Goa,East,49,Mouse,Accessories,30.0,3,90.0,16.49,In Transit,2023-07-29
+Cust0127,Female,Arunachal Pradesh,South,62,Phone,Electronics,800.0,4,3200.0,6.66,In Transit,2023-07-10
+Cust0128,Female,Mizoram,North,52,Monitor,Electronics,621.91,3,900.0,11.04,Delivered,2023-10-25
+Cust0155,Male,Sikkim,West,41,Earbuds,Accessories,100.0,3,300.0,11.98,Delivered,2023-06-12
+Cust0115,Male,Chandigarh,South,53,Earbuds,Accessories,100.0,5,500.0,5.93,In Transit,2023-07-22
+Cust0115,Male,Puducherry,West,53,Watch,Wearables,200.0,5,1000.0,19.43,Returned,2023-06-25
+Cust0282,Male,Andaman & Nicobar Islands,East,68,Phone,Electronics,800.0,3,2400.0,8.23,Returned,2023-11-29
+Cust0158,Male,Dadra & Nagar Haveli and Daman & Diu,West,51,Phone,Electronics,800.0,1,800.0,18.58,Returned,2023-10-03
+Cust0088,Female,Lakshadweep,South,66,Laptop,Electronics,1500.0,1,1500.0,13.16,In Transit,2023-02-06
+Cust0124,Male,Ladakh,South,53,Monitor,Electronics,300.0,2,600.0,8.51,Returned,2023-05-17
+Cust0055,Female,Uttar Pradesh,North,45,Watch,Wearables,200.0,2,400.0,10.82,Returned,2023-09-23
+Cust0256,Female,Bihar,West,69,Mouse,Accessories,30.0,5,150.0,9.07,Delivered,2023-02-19
+Cust0055,Male,West Bengal,East,45,Keyboard,Accessories,50.0,1,50.0,11.27,Returned,2023-09-13
+Cust0076,Male,Madhya Pradesh,South,26,Monitor,Electronics,300.0,4,1200.0,6.9,Returned,2023-11-05
+Cust0273,Male,Tamil Nadu,South,55,Monitor,Electronics,300.0,3,900.0,7.31,In Transit,2023-01-15
+Cust0204,Male,Karnataka,East,54,Laptop,Electronics,1500.0,2,3000.0,12.68,Delivered,2023-05-11
+Cust0194,Female,Gujarat,South,61,Mouse,Accessories,30.0,1,30.0,19.54,In Transit,2023-04-16
+Cust0071,Female,Odisha,North,46,Mouse,Accessories,30.0,4,120.0,10.01,In Transit,2023-04-11
+Cust0044,Female,Telangana,North,30,Keyboard,Accessories,50.0,4,200.0,16.61,Returned,2023-10-16
+Cust0273,Male,Kerala,South,55,Earbuds,Accessories,100.0,4,400.0,18.99,In Transit,2023-10-16
+Cust0196,Female,Jharkhand,East,37,Earbuds,Accessories,100.0,4,400.0,11.4,Delivered,2023-02-22
+Cust0212,Female,Assam,East,62,Mouse,Accessories,30.0,2,60.0,8.36,Delivered,2023-07-17
+Cust0106,Female,Punjab,East,49,Mouse,Accessories,30.0,5,150.0,10.03,Delivered,2023-06-30
+Cust0133,Male,Chhattisgarh,North,47,Earbuds,Accessories,100.0,3,300.0,15.0,Delivered,2023-07-09
+Cust0262,Male,Haryana,West,27,Mouse,Accessories,30.0,4,120.0,16.05,Returned,2023-05-07
+Cust0280,Female,Delhi,East,44,Keyboard,Accessories,50.0,4,200.0,12.3,In Transit,2023-03-22
+Cust0074,Male,Jammu & Kashmir,North,36,Watch,Wearables,200.0,2,400.0,12.03,Returned,2023-08-28
+Cust0300,Female,Uttarakhand,East,49,Mouse,Accessories,30.0,3,90.0,11.56,In Transit,2023-01-17
+Cust0016,Male,Tripura,South,61,Phone,Electronics,800.0,1,800.0,17.43,Delivered,2023-01-10
+Cust0152,Male,Meghalaya,South,69,Phone,Electronics,800.0,3,2400.0,13.57,Returned,2023-03-25
+Cust0278,Female,Manipur,East,52,Watch,Wearables,200.0,3,600.0,10.21,In Transit,2023-01-29
+Cust0229,Male,Goa,West,45,Monitor,Electronics,300.0,1,300.0,16.7,Delivered,2023-09-16
+Cust0128,Male,Arunachal Pradesh,West,52,Monitor,Electronics,300.0,1,300.0,14.67,Delivered,2023-07-21
+Cust0032,Female,Mizoram,South,63,Monitor,Electronics,300.0,5,1500.0,18.0,Returned,2023-03-21
+Cust0283,Female,Sikkim,South,67,Keyboard,Accessories,50.0,5,250.0,10.04,In Transit,2023-05-03
+Cust0238,Male,Chandigarh,West,26,Keyboard,Accessories,50.0,4,200.0,10.23,Delivered,2023-01-24
+Cust0051,Male,Puducherry,West,41,Watch,Wearables,200.0,4,800.0,8.56,Returned,2024-01-03
+Cust0134,Male,Dadra & Nagar Haveli and Daman & Diu,South,58,Monitor,Electronics,300.0,5,1500.0,19.72,Delivered,2023-05-16
+Cust0129,Male,Lakshadweep,South,66,Mouse,Accessories,30.0,2,60.0,9.19,In Transit,2023-05-07
+Cust0148,Female,Ladakh,West,67,Earbuds,Accessories,100.0,2,200.0,19.58,Returned,2023-06-01
+Cust0272,Male,Maharashtra,South,52,Keyboard,Accessories,50.0,2,100.0,13.78,Delivered,2023-09-04
+Cust0092,Female,Bihar,East,32,Mouse,Accessories,30.0,5,150.0,15.68,Delivered,2023-11-06
+Cust0109,Male,Madhya Pradesh,North,57,Watch,Wearables,200.0,1,200.0,13.34,Returned,2023-09-08
+Cust0291,Male,Rajasthan,West,49,Watch,Wearables,200.0,4,800.0,18.56,Delivered,2023-03-18
+Cust0153,Female,Karnataka,South,40,Earbuds,Accessories,100.0,5,500.0,14.22,Delivered,2023-02-02
+Cust0220,Male,Gujarat,North,67,Earbuds,Accessories,100.0,5,500.0,13.85,Returned,2023-03-15
+Cust0199,Female,Andhra Pradesh,North,41,Mouse,Accessories,30.0,3,90.0,18.37,Returned,2024-01-03
+Cust0245,Male,Odisha,West,63,Phone,Electronics,800.0,2,1600.0,19.63,Delivered,2023-12-27
+Cust0228,Male,Telangana,North,25,Phone,Electronics,800.0,1,800.0,5.64,In Transit,2023-09-23
+Cust0174,Male,Jharkhand,West,68,Mouse,Accessories,30.0,4,120.0,14.02,Returned,2023-09-13
+Cust0161,Male,Assam,West,62,Watch,Wearables,200.0,3,600.0,17.9,Returned,2023-01-03
+Cust0204,Male,Punjab,South,54,Phone,Electronics,800.0,1,800.0,7.77,Returned,2023-07-23
+Cust0062,Male,Chhattisgarh,West,43,Watch,Wearables,200.0,2,400.0,13.02,Delivered,2023-10-08
+Cust0114,Male,Haryana,South,60,Keyboard,Accessories,50.0,1,50.0,6.25,In Transit,2023-02-06
+Cust0102,Male,Delhi,West,25,Monitor,Electronics,300.0,3,900.0,9.94,Delivered,2023-10-21
+Cust0140,Male,Jammu & Kashmir,East,50,Phone,Electronics,800.0,1,800.0,10.36,Returned,2023-05-25
+Cust0142,Female,Uttarakhand,South,32,Phone,Electronics,800.0,1,800.0,8.45,Returned,2023-04-28
+Cust0016,Male,Himachal Pradesh,East,61,Phone,Electronics,800.0,2,1600.0,19.07,Delivered,2023-10-03
+Cust0023,Male,Tripura,South,49,Keyboard,Accessories,50.0,5,250.0,10.03,Returned,2023-11-01
+Cust0008,Female,Meghalaya,West,18,Mouse,Accessories,30.0,4,120.0,8.76,In Transit,2023-06-30
+Cust0268,Male,Manipur,North,21,Monitor,Electronics,300.0,2,600.0,5.69,Returned,2023-08-03
+Cust0162,Male,Nagaland,East,69,Earbuds,Accessories,100.0,1,100.0,6.43,Returned,2023-05-26
+Cust0121,Female,Goa,West,66,Watch,Wearables,200.0,5,1000.0,19.19,Returned,2023-09-19
+Cust0047,Female,Arunachal Pradesh,West,41,Watch,Wearables,200.0,3,600.0,10.92,Returned,2023-06-18
+Cust0148,Male,Mizoram,East,67,Keyboard,Accessories,50.0,5,250.0,11.17,In Transit,2023-03-03
+Cust0251,Female,Sikkim,East,42,Phone,Electronics,800.0,3,2400.0,10.65,In Transit,2023-11-18
+Cust0028,Female,Chandigarh,West,50,Monitor,Electronics,300.0,1,300.0,14.36,Delivered,2023-08-05
+Cust0174,Female,Puducherry,East,68,Earbuds,Accessories,100.0,4,400.0,11.92,In Transit,2023-10-31
+Cust0010,Female,Ladakh,East,37,Earbuds,Accessories,100.0,3,300.0,7.41,Delivered,2023-03-27
+Cust0186,Female,Uttar Pradesh,West,55,Laptop,Electronics,1500.0,1,1500.0,19.04,In Transit,2023-10-20
+Cust0281,Female,Maharashtra,North,44,Laptop,Electronics,1500.0,2,3000.0,9.87,Delivered,2023-11-27
+Cust0270,Female,West Bengal,East,49,Earbuds,Accessories,100.0,3,300.0,13.33,Delivered,2023-02-10
+Cust0039,Female,Madhya Pradesh,North,60,Phone,Electronics,800.0,2,1600.0,19.2,In Transit,2023-08-11
+Cust0063,Male,Tamil Nadu,South,20,Keyboard,Accessories,50.0,1,50.0,17.61,Returned,2023-08-13
+Cust0097,Female,Rajasthan,East,34,Watch,Wearables,200.0,1,200.0,17.66,Returned,2023-05-21
+Cust0124,Female,Gujarat,East,49,Phone,Electronics,800.0,4,3200.0,19.17,In Transit,2023-06-17
+Cust0284,Female,Andhra Pradesh,South,64,Monitor,Electronics,300.0,3,900.0,19.12,In Transit,2023-06-17
+Cust0010,Male,Odisha,West,37,Monitor,Electronics,300.0,1,300.0,9.72,Returned,2023-03-30
+Cust0276,Female,Telangana,West,66,Monitor,Electronics,300.0,1,300.0,18.63,Delivered,2023-11-01
+Cust0221,Female,Jharkhand,South,33,Mouse,Accessories,30.0,2,60.0,15.69,Delivered,2023-10-21
+Cust0062,Female,Assam,West,43,Monitor,Electronics,300.0,3,900.0,8.58,Returned,2023-11-02
+Cust0219,Female,Punjab,South,48,Earbuds,Accessories,207.3,1,100.0,9.55,Delivered,2023-01-23
+Cust0144,Female,Haryana,South,54,Phone,Electronics,800.0,4,3200.0,7.86,Returned,2023-08-07
+Cust0081,Male,Delhi,South,38,Monitor,Electronics,300.0,5,1500.0,12.67,In Transit,2023-01-05
+Cust0044,Female,Jammu & Kashmir,South,30,Monitor,Electronics,300.0,2,600.0,16.31,Delivered,2023-07-25
+Cust0055,Female,Uttarakhand,South,45,Watch,Wearables,200.0,3,600.0,18.24,Returned,2023-11-25
+Cust0272,Male,Himachal Pradesh,North,52,Mouse,Accessories,30.0,3,90.0,11.88,Returned,2023-05-18
+Cust0126,Female,Tripura,South,66,Mouse,Accessories,30.0,2,60.0,5.53,In Transit,2023-10-16
+Cust0167,Male,Meghalaya,South,67,Watch,Wearables,200.0,3,600.0,8.01,Delivered,2023-03-27
+Cust0043,Female,Manipur,South,22,Mouse,Accessories,30.0,4,120.0,19.24,In Transit,2023-10-25
+Cust0201,Male,Nagaland,West,49,Monitor,Electronics,300.0,2,600.0,7.0,In Transit,2023-09-21
+Cust0237,Male,Goa,South,65,Watch,Wearables,200.0,3,600.0,6.94,In Transit,2024-01-03
+Cust0028,Female,Arunachal Pradesh,East,49,Laptop,Electronics,1500.0,1,1500.0,6.62,Delivered,2023-02-22
+Cust0150,Female,Mizoram,North,63,Monitor,Electronics,300.0,3,900.0,19.87,Delivered,2023-08-23
+Cust0247,Male,Sikkim,South,44,Keyboard,Accessories,50.0,2,100.0,10.09,Delivered,2023-08-01
+Cust0058,Female,Chandigarh,East,42,Monitor,Electronics,300.0,2,600.0,6.22,In Transit,2023-08-06
+Cust0041,Male,Andaman & Nicobar Islands,East,64,Phone,Electronics,800.0,4,3200.0,5.82,Returned,2023-10-02
+Cust0204,Male,Dadra & Nagar Haveli and Daman & Diu,East,54,Monitor,Electronics,300.0,4,1200.0,18.4,Delivered,2023-04-29
+Cust0095,Female,Lakshadweep,North,60,Watch,Wearables,200.0,2,400.0,18.88,Delivered,2023-07-24
+Cust0272,Female,Ladakh,North,52,Watch,Wearables,200.0,3,600.0,15.36,In Transit,2023-09-17
+Cust0069,Male,Uttar Pradesh,East,49,Monitor,Electronics,300.0,4,1200.0,16.88,In Transit,2023-09-26
+Cust0202,Male,Maharashtra,South,56,Earbuds,Accessories,100.0,4,400.0,19.94,In Transit,2023-06-07
+Cust0054,Female,Bihar,North,64,Earbuds,Accessories,100.0,1,100.0,10.32,Delivered,2023-03-12
+Cust0187,Female,West Bengal,East,25,Keyboard,Accessories,50.0,4,200.0,7.33,Delivered,2023-10-24
+Cust0019,Male,Tamil Nadu,West,69,Watch,Wearables,200.0,1,200.0,12.86,In Transit,2023-08-16
+Cust0054,Female,Rajasthan,North,64,Keyboard,Accessories,50.0,1,50.0,13.13,In Transit,2023-02-13
+Cust0059,Male,Gujarat,North,18,Laptop,Electronics,1500.0,2,3000.0,7.81,Returned,2023-06-22
+Cust0075,Female,Andhra Pradesh,South,56,Mouse,Accessories,30.0,5,150.0,5.44,In Transit,2023-06-23
+Cust0129,Female,Odisha,East,66,Phone,Electronics,800.0,3,2400.0,19.63,Delivered,2023-07-28
+Cust0103,Male,Telangana,North,49,Phone,Electronics,800.0,1,800.0,15.79,In Transit,2023-10-30
+Cust0299,Female,Jharkhand,West,58,Watch,Wearables,200.0,3,600.0,9.69,Returned,2024-01-03
+Cust0178,Female,Assam,South,44,Phone,Electronics,1658.43,3,2400.0,19.31,Delivered,2023-06-03
+Cust0152,Male,Chhattisgarh,East,69,Mouse,Accessories,30.0,1,30.0,10.99,In Transit,2023-10-06
+Cust0212,Female,Haryana,West,62,Phone,Electronics,800.0,3,2400.0,16.12,In Transit,2023-08-01
+Cust0224,Female,Uttarakhand,East,57,Phone,Electronics,800.0,1,800.0,19.34,Delivered,2023-11-20
+Cust0131,Female,Himachal Pradesh,West,67,Laptop,Electronics,1500.0,2,3000.0,18.81,In Transit,2023-08-10
+Cust0019,Male,Tripura,North,69,Monitor,Electronics,300.0,1,300.0,14.91,Delivered,2023-04-05
+Cust0291,Female,Meghalaya,North,49,Mouse,Accessories,30.0,1,30.0,5.6,Delivered,2023-04-19
+Cust0285,Female,Goa,North,58,Earbuds,Accessories,100.0,1,100.0,5.25,Delivered,2023-01-14
+Cust0199,Male,Arunachal Pradesh,North,41,Earbuds,Accessories,100.0,1,100.0,18.38,Returned,2023-07-05
+Cust0045,Female,Mizoram,East,21,Monitor,Electronics,300.0,3,900.0,15.22,In Transit,2024-01-03
+Cust0063,Male,Sikkim,North,20,Monitor,Electronics,300.0,4,1200.0,15.57,Delivered,2023-11-06
+Cust0210,Female,Puducherry,North,30,Monitor,Electronics,300.0,5,1500.0,16.68,Returned,2023-05-06
+Cust0105,Female,Andaman & Nicobar Islands,North,27,Earbuds,Accessories,100.0,2,200.0,12.44,In Transit,2023-10-21
+Cust0198,Male,Dadra & Nagar Haveli and Daman & Diu,South,49,Monitor,Electronics,300.0,3,900.0,6.39,Returned,2023-12-30
+Cust0241,Female,Lakshadweep,East,27,Keyboard,Accessories,50.0,1,50.0,11.72,In Transit,2023-07-10
+Cust0201,Female,Ladakh,West,49,Phone,Electronics,800.0,2,1600.0,6.85,Delivered,2024-01-03
+Cust0052,Male,Uttar Pradesh,South,66,Mouse,Accessories,30.0,4,120.0,14.27,In Transit,2023-02-05
+Cust0285,Male,West Bengal,South,49,Phone,Electronics,800.0,3,2400.0,19.44,In Transit,2023-06-03
+Cust0279,Female,Madhya Pradesh,West,59,Mouse,Accessories,30.0,3,90.0,7.34,Returned,2023-04-26
+Cust0052,Female,Tamil Nadu,East,66,Earbuds,Accessories,100.0,3,300.0,13.21,In Transit,2023-03-13
+Cust0103,Female,Karnataka,South,23,Keyboard,Accessories,50.0,5,250.0,14.12,In Transit,2023-04-10
+Cust0129,Female,Gujarat,North,66,Watch,Wearables,200.0,5,1000.0,10.43,Delivered,2023-03-07
+Cust0012,Female,Andhra Pradesh,North,28,Laptop,Electronics,1500.0,1,1500.0,12.71,Returned,2023-08-31
+Cust0108,Male,Telangana,South,49,Keyboard,Accessories,50.0,2,100.0,6.85,Returned,2023-10-19
+Cust0196,Male,Kerala,West,37,Laptop,Electronics,1500.0,2,3000.0,17.23,Returned,2023-01-10
+Cust0007,Male,Jharkhand,East,52,Earbuds,Accessories,100.0,3,300.0,19.53,In Transit,2023-01-16
+Cust0118,Male,Assam,West,49,Watch,Wearables,200.0,3,600.0,18.62,Delivered,2023-07-23
+Cust0227,Female,Punjab,East,54,Mouse,Accessories,30.0,5,150.0,14.71,In Transit,2023-12-04
+Cust0219,Female,Chhattisgarh,South,48,Keyboard,Accessories,50.0,2,100.0,12.46,In Transit,2023-04-09
+Cust0297,Male,Haryana,East,61,Monitor,Electronics,300.0,2,600.0,12.26,Returned,2023-04-25
+Cust0098,Female,Delhi,East,57,Earbuds,Accessories,100.0,4,400.0,8.84,In Transit,2023-02-28
+Cust0284,Female,Jammu & Kashmir,South,64,Watch,Wearables,200.0,5,1000.0,13.46,In Transit,2023-05-09
+Cust0137,Female,Uttarakhand,West,19,Monitor,Electronics,300.0,5,1500.0,19.39,Returned,2023-12-08
+Cust0127,Male,Himachal Pradesh,North,62,Earbuds,Accessories,100.0,2,200.0,5.13,Delivered,2023-11-01
+Cust0052,Male,Tripura,East,66,Mouse,Accessories,30.0,2,60.0,6.23,In Transit,2023-06-11
+Cust0162,Female,Meghalaya,South,69,Watch,Wearables,200.0,4,800.0,12.26,In Transit,2023-10-09
+Cust0011,Female,Nagaland,West,54,Phone,Electronics,1658.43,2,1600.0,15.8,In Transit,2023-04-06
+Cust0078,Female,Arunachal Pradesh,East,38,Monitor,Electronics,300.0,1,300.0,7.57,Delivered,2023-02-07
+Cust0130,Female,Sikkim,West,68,Watch,Wearables,200.0,3,600.0,5.65,In Transit,2023-08-18
+Cust0186,Female,Chandigarh,East,55,Watch,Wearables,200.0,5,1000.0,18.29,Delivered,2023-01-10
+Cust0164,Male,Puducherry,South,50,Monitor,Electronics,300.0,3,900.0,11.22,In Transit,2023-03-16
+Cust0006,Female,Dadra & Nagar Haveli and Daman & Diu,East,49,Watch,Wearables,200.0,3,600.0,13.94,Delivered,2023-04-07
+Cust0124,Female,Lakshadweep,North,53,Monitor,Electronics,300.0,1,300.0,16.32,Delivered,2023-08-16
+Cust0060,Female,Ladakh,West,41,Earbuds,Accessories,100.0,5,500.0,18.06,Delivered,2023-03-15
+Cust0046,Female,Uttar Pradesh,North,22,Mouse,Accessories,30.0,1,30.0,8.96,Returned,2023-03-03
+Cust0012,Male,Bihar,South,28,Earbuds,Accessories,100.0,3,300.0,17.16,Returned,2023-08-10
+Cust0095,Male,West Bengal,East,60,Mouse,Accessories,30.0,3,90.0,18.42,Delivered,2023-01-25
+Cust0193,Male,Rajasthan,South,64,Keyboard,Accessories,50.0,4,200.0,17.18,In Transit,2023-11-06
+Cust0270,Male,Karnataka,East,64,Keyboard,Accessories,50.0,1,50.0,18.23,Delivered,2023-05-24
+Cust0005,Female,Gujarat,East,56,Mouse,Accessories,30.0,2,60.0,7.58,In Transit,2023-02-15
+Cust0118,Female,Andhra Pradesh,West,23,Phone,Electronics,800.0,2,1600.0,9.07,In Transit,2023-10-19
+Cust0016,Female,Odisha,North,61,Keyboard,Accessories,50.0,1,50.0,19.39,Delivered,2023-07-28
+Cust0168,Female,Telangana,South,42,Keyboard,Accessories,50.0,2,100.0,12.44,In Transit,2023-02-21
+Cust0091,Male,Kerala,North,30,Keyboard,Accessories,50.0,1,50.0,19.02,Delivered,2023-12-14
+Cust0066,Female,Jharkhand,West,37,Earbuds,Accessories,100.0,3,300.0,16.67,Returned,2023-03-07
+Cust0186,Female,Assam,East,55,Mouse,Accessories,30.0,1,30.0,5.24,Returned,2023-05-25
+Cust0130,Female,Punjab,North,68,Monitor,Electronics,300.0,3,900.0,10.39,Returned,2023-02-09
+Cust0274,Female,Chhattisgarh,West,51,Keyboard,Accessories,50.0,3,150.0,19.79,Delivered,2024-01-03
+Cust0095,Female,Haryana,East,60,Monitor,Electronics,300.0,4,1200.0,7.26,In Transit,2023-08-20
+Cust0128,Female,Delhi,East,52,Watch,Wearables,200.0,5,1000.0,18.72,Delivered,2023-03-02
+Cust0016,Female,Uttarakhand,East,61,Monitor,Electronics,300.0,1,300.0,6.63,In Transit,2023-01-14
+Cust0192,Male,Himachal Pradesh,South,58,Mouse,Accessories,30.0,1,30.0,11.39,In Transit,2023-05-15
+Cust0059,Female,Meghalaya,East,18,Keyboard,Accessories,50.0,4,200.0,7.76,In Transit,2023-08-20
+Cust0065,Female,Manipur,South,41,Phone,Electronics,800.0,1,800.0,6.24,Delivered,2023-08-03
+Cust0025,Female,Nagaland,South,56,Earbuds,Accessories,100.0,3,300.0,5.86,In Transit,2023-11-25
+Cust0160,Female,Goa,South,69,Laptop,Electronics,1500.0,2,3000.0,5.35,Returned,2023-10-30
+Cust0071,Male,Mizoram,East,46,Phone,Electronics,800.0,2,1600.0,13.1,In Transit,2023-01-07
+Cust0044,Male,Sikkim,East,30,Watch,Wearables,200.0,2,400.0,13.54,In Transit,2023-08-08
+Cust0291,Female,Puducherry,South,49,Monitor,Electronics,300.0,3,900.0,17.93,Delivered,2023-05-29
+Cust0266,Female,Andaman & Nicobar Islands,North,29,Monitor,Electronics,300.0,4,1200.0,5.79,In Transit,2023-09-04
+Cust0184,Female,Dadra & Nagar Haveli and Daman & Diu,North,54,Phone,Electronics,800.0,1,800.0,13.72,In Transit,2023-08-30
+Cust0130,Male,Lakshadweep,West,68,Keyboard,Accessories,50.0,3,150.0,8.99,Delivered,2023-02-02
+Cust0052,Male,Ladakh,South,66,Monitor,Electronics,300.0,4,1200.0,17.59,Returned,2023-09-12
+Cust0240,Male,Uttar Pradesh,East,39,Keyboard,Accessories,50.0,4,200.0,13.51,Delivered,2023-12-21
+Cust0054,Male,Maharashtra,South,64,Phone,Electronics,800.0,1,800.0,19.15,Delivered,2023-10-07
+Cust0023,Male,West Bengal,East,49,Monitor,Electronics,300.0,5,1500.0,8.56,In Transit,2023-10-30
+Cust0183,Male,Madhya Pradesh,North,42,Mouse,Accessories,30.0,5,150.0,9.26,Delivered,2023-02-21
+Cust0136,Female,Rajasthan,South,36,Mouse,Accessories,30.0,5,150.0,6.58,In Transit,2023-10-17
+Cust0052,Female,Karnataka,South,66,Mouse,Accessories,30.0,2,60.0,12.21,Delivered,2023-06-05
+Cust0141,Male,Gujarat,West,58,Monitor,Electronics,300.0,4,1200.0,6.4,Delivered,2023-03-03
+Cust0156,Female,Odisha,North,57,Monitor,Electronics,300.0,1,300.0,15.49,In Transit,2023-02-05
+Cust0199,Male,Telangana,West,49,Phone,Electronics,800.0,3,2400.0,6.95,Returned,2023-09-22
+Cust0196,Female,Jharkhand,West,37,Laptop,Electronics,1500.0,1,1500.0,12.95,Returned,2023-11-06
+Cust0243,Female,Assam,West,58,Earbuds,Accessories,100.0,5,500.0,19.98,Returned,2023-08-13
+Cust0182,Male,Punjab,South,19,Phone,Electronics,800.0,4,3200.0,12.3,Delivered,2023-01-23
+Cust0296,Female,Chhattisgarh,South,50,Monitor,Electronics,300.0,4,1200.0,7.42,Delivered,2023-10-07
+Cust0296,Female,Haryana,West,50,Mouse,Accessories,30.0,1,30.0,15.21,In Transit,2023-11-15
+Cust0264,Female,Delhi,West,59,Monitor,Electronics,300.0,3,900.0,19.8,In Transit,2023-12-26
+Cust0136,Female,Jammu & Kashmir,West,49,Mouse,Accessories,30.0,5,150.0,13.14,Returned,2023-11-11
+Cust0010,Male,Uttarakhand,West,49,Earbuds,Accessories,100.0,5,500.0,15.78,Delivered,2023-04-21
+Cust0131,Male,Himachal Pradesh,West,67,Keyboard,Accessories,50.0,5,250.0,5.81,Delivered,2023-05-18
+Cust0252,Male,Tripura,West,55,Earbuds,Accessories,100.0,5,500.0,7.98,Returned,2023-05-16
+Cust0294,Female,Meghalaya,East,49,Mouse,Accessories,30.0,5,150.0,19.83,In Transit,2023-09-11
+Cust0289,Female,Nagaland,North,37,Mouse,Accessories,30.0,4,120.0,9.0,Returned,2024-01-03
+Cust0126,Female,Goa,North,66,Phone,Electronics,800.0,1,800.0,16.42,In Transit,2023-09-26
+Cust0024,Female,Arunachal Pradesh,South,57,Laptop,Electronics,1500.0,1,1500.0,9.69,Delivered,2023-11-22
+Cust0170,Male,Sikkim,West,40,Keyboard,Accessories,50.0,2,100.0,14.0,Delivered,2023-11-23
+Cust0043,Male,Puducherry,North,22,Keyboard,Accessories,50.0,4,200.0,9.82,Delivered,2023-01-05
+Cust0103,Male,Andaman & Nicobar Islands,North,23,Watch,Wearables,200.0,5,1000.0,14.5,Delivered,2023-11-15
+Cust0032,Male,Dadra & Nagar Haveli and Daman & Diu,North,63,Mouse,Accessories,30.0,4,120.0,14.68,Returned,2023-03-11
+Cust0182,Male,Lakshadweep,West,19,Mouse,Accessories,30.0,1,30.0,17.33,Delivered,2023-08-31
+Cust0076,Male,Ladakh,North,26,Earbuds,Accessories,100.0,2,200.0,17.84,Delivered,2023-12-12
+Cust0215,Female,Uttar Pradesh,North,35,Monitor,Electronics,300.0,5,1500.0,19.58,Delivered,2023-01-22
+Cust0105,Male,Maharashtra,South,27,Keyboard,Accessories,50.0,5,250.0,17.69,In Transit,2023-12-31
+Cust0002,Female,West Bengal,South,23,Keyboard,Accessories,50.0,5,250.0,17.96,In Transit,2023-08-18
+Cust0283,Female,Madhya Pradesh,East,67,Laptop,Electronics,1500.0,1,1500.0,11.14,In Transit,2023-06-25
+Cust0047,Female,Tamil Nadu,West,41,Laptop,Electronics,1500.0,1,1500.0,14.86,Returned,2023-10-21
+Cust0153,Male,Rajasthan,West,49,Mouse,Accessories,30.0,2,60.0,6.54,Returned,2023-11-21
+Cust0047,Male,Karnataka,East,41,Earbuds,Accessories,207.3,2,200.0,9.15,Returned,2023-04-23
+Cust0269,Male,Gujarat,East,64,Monitor,Electronics,300.0,4,1200.0,13.49,Returned,2023-09-09
+Cust0022,Male,Andhra Pradesh,North,49,Laptop,Electronics,1500.0,2,3000.0,8.24,Delivered,2023-04-15
+Cust0106,Female,Odisha,East,50,Phone,Electronics,800.0,3,2400.0,10.13,Returned,2023-06-26
+Cust0284,Male,Telangana,South,64,Earbuds,Accessories,100.0,2,200.0,10.57,In Transit,2023-06-03
+Cust0149,Male,Kerala,South,40,Laptop,Electronics,1500.0,1,1500.0,14.19,In Transit,2023-05-20
+Cust0068,Male,Jharkhand,East,64,Watch,Wearables,200.0,3,600.0,5.7,In Transit,2023-04-07
+Cust0289,Female,Assam,East,37,Watch,Wearables,200.0,5,1000.0,5.6,Returned,2023-11-18
+Cust0236,Male,Haryana,West,18,Laptop,Electronics,1500.0,2,3000.0,18.07,Returned,2023-01-23
+Cust0148,Male,Delhi,West,49,Keyboard,Accessories,50.0,4,200.0,14.29,Delivered,2023-10-08
+Cust0122,Male,Jammu & Kashmir,North,68,Earbuds,Accessories,100.0,4,400.0,11.52,Returned,2023-11-29
+Cust0246,Female,Uttarakhand,South,64,Monitor,Electronics,300.0,3,900.0,15.77,Delivered,2023-09-29
+Cust0204,Male,Tripura,West,54,Earbuds,Accessories,100.0,5,500.0,8.64,Delivered,2023-10-20
+Cust0071,Female,Goa,South,49,Earbuds,Accessories,100.0,1,100.0,14.98,Delivered,2023-12-04
+Cust0248,Male,Arunachal Pradesh,East,67,Monitor,Electronics,300.0,1,300.0,8.65,Returned,2023-08-27
+Cust0088,Female,Mizoram,West,66,Earbuds,Accessories,100.0,5,500.0,14.84,Delivered,2023-06-08
+Cust0020,Female,Sikkim,North,55,Monitor,Electronics,300.0,1,300.0,7.38,Delivered,2023-10-26
+Cust0196,Male,Puducherry,East,37,Watch,Wearables,200.0,5,1000.0,19.55,Delivered,2023-04-23
+Cust0211,Male,Dadra & Nagar Haveli and Daman & Diu,West,49,Keyboard,Accessories,50.0,1,50.0,14.62,Returned,2023-01-28
+Cust0152,Female,Lakshadweep,South,69,Watch,Wearables,200.0,3,600.0,19.07,Delivered,2023-07-16
+Cust0042,Male,Ladakh,East,57,Watch,Wearables,200.0,5,1000.0,15.99,Returned,2023-01-04
+Cust0235,Male,Uttar Pradesh,East,19,Earbuds,Accessories,100.0,5,500.0,19.53,In Transit,2023-04-08
+Cust0179,Male,West Bengal,North,45,Phone,Electronics,800.0,4,3200.0,15.02,Returned,2023-09-28
+Cust0157,Female,Madhya Pradesh,East,48,Keyboard,Accessories,50.0,4,200.0,8.27,In Transit,2023-05-22
+Cust0272,Male,Tamil Nadu,South,52,Mouse,Accessories,30.0,3,90.0,8.66,In Transit,2023-03-30
+Cust0071,Female,Rajasthan,South,46,Earbuds,Accessories,100.0,5,500.0,11.88,Returned,2023-08-02
+Cust0268,Male,Karnataka,North,21,Keyboard,Accessories,50.0,3,150.0,15.03,In Transit,2023-05-20
+Cust0017,Female,Gujarat,West,36,Keyboard,Accessories,50.0,5,250.0,12.63,Delivered,2023-12-17
+Cust0221,Male,Andhra Pradesh,West,33,Monitor,Electronics,300.0,3,900.0,7.25,Returned,2023-11-01
+Cust0207,Male,Odisha,West,54,Earbuds,Accessories,100.0,2,200.0,6.22,Returned,2024-01-03
+Cust0077,Male,Telangana,East,50,Monitor,Electronics,300.0,3,900.0,14.75,Delivered,2023-01-08
+Cust0253,Female,Kerala,East,51,Earbuds,Accessories,100.0,4,400.0,17.18,In Transit,2023-09-25
+Cust0253,Female,Jharkhand,East,51,Keyboard,Accessories,50.0,3,150.0,14.99,In Transit,2023-04-18
+Cust0225,Female,Assam,North,49,Watch,Wearables,200.0,1,200.0,17.3,Delivered,2023-02-19
+Cust0091,Female,Punjab,West,30,Earbuds,Accessories,100.0,1,100.0,6.47,Delivered,2023-06-01
+Cust0142,Female,Chhattisgarh,South,32,Keyboard,Accessories,50.0,5,250.0,10.39,In Transit,2023-06-28
+Cust0142,Female,Haryana,South,32,Monitor,Electronics,300.0,1,300.0,9.57,In Transit,2023-04-24
+Cust0032,Male,Delhi,North,63,Phone,Electronics,800.0,2,1600.0,6.57,Delivered,2023-12-08
+Cust0011,Male,Jammu & Kashmir,West,54,Keyboard,Accessories,50.0,1,50.0,13.9,Delivered,2023-11-04
+Cust0068,Male,Himachal Pradesh,East,64,Watch,Wearables,200.0,2,400.0,11.49,Returned,2023-09-24
+Cust0222,Female,Tripura,East,61,Mouse,Accessories,30.0,2,60.0,13.74,Delivered,2023-11-13
+Cust0145,Male,Meghalaya,East,51,Laptop,Electronics,1500.0,1,1500.0,15.23,Returned,2023-10-10
+Cust0249,Male,Arunachal Pradesh,South,33,Monitor,Electronics,300.0,5,1500.0,15.98,In Transit,2023-01-16
+Cust0012,Male,Mizoram,West,28,Monitor,Electronics,300.0,2,600.0,14.13,Delivered,2023-02-11
+Cust0038,Male,Sikkim,East,57,Monitor,Electronics,300.0,2,600.0,17.67,In Transit,2023-12-18
+Cust0216,Female,Chandigarh,West,53,Keyboard,Accessories,50.0,5,250.0,15.62,Returned,2023-09-01
+Cust0172,Female,Puducherry,South,56,Monitor,Electronics,300.0,5,1500.0,12.62,Returned,2023-07-20
+Cust0048,Male,Andaman & Nicobar Islands,North,34,Monitor,Electronics,300.0,2,600.0,11.88,Returned,2023-09-23
+Cust0260,Male,Dadra & Nagar Haveli and Daman & Diu,East,32,Monitor,Electronics,300.0,2,600.0,12.92,Returned,2023-07-14
+Cust0063,Male,Lakshadweep,North,20,Watch,Wearables,200.0,4,800.0,15.78,Delivered,2023-06-14
+Cust0160,Male,Maharashtra,South,69,Monitor,Electronics,300.0,2,600.0,18.79,Delivered,2023-07-29
+Cust0250,Female,Bihar,North,64,Phone,Electronics,800.0,2,1600.0,17.54,Returned,2023-08-05
+Cust0038,Male,West Bengal,North,57,Keyboard,Accessories,50.0,3,150.0,18.44,In Transit,2023-02-21
+Cust0048,Male,Madhya Pradesh,North,34,Monitor,Electronics,300.0,2,600.0,12.94,In Transit,2023-05-05
+Cust0183,Female,Tamil Nadu,West,42,Monitor,Electronics,300.0,3,900.0,14.11,Returned,2023-01-16
+Cust0155,Male,Karnataka,North,41,Watch,Wearables,200.0,1,200.0,18.84,In Transit,2023-04-20
+Cust0229,Female,Andhra Pradesh,North,49,Earbuds,Accessories,100.0,4,400.0,11.95,Delivered,2023-09-04
+Cust0229,Male,Odisha,North,45,Mouse,Accessories,30.0,3,90.0,10.06,Delivered,2023-02-18
+Cust0139,Male,Telangana,North,57,Mouse,Accessories,30.0,5,150.0,19.16,Returned,2023-01-07
+Cust0095,Male,Jharkhand,West,60,Keyboard,Accessories,50.0,5,250.0,13.0,Returned,2023-12-19
+Cust0001,Female,Assam,East,38,Keyboard,Accessories,50.0,3,150.0,6.14,Returned,2023-04-10
+Cust0086,Male,Chhattisgarh,West,26,Watch,Wearables,200.0,5,1000.0,14.83,Delivered,2023-07-03
+Cust0193,Female,Haryana,North,64,Monitor,Electronics,300.0,3,900.0,15.97,Delivered,2023-10-15
+Cust0193,Female,Delhi,East,64,Earbuds,Accessories,100.0,4,400.0,12.48,In Transit,2023-06-10
+Cust0044,Female,Jammu & Kashmir,East,30,Monitor,Electronics,300.0,4,1200.0,10.86,Delivered,2023-09-03
+Cust0006,Female,Himachal Pradesh,East,52,Earbuds,Accessories,100.0,2,200.0,18.95,In Transit,2023-01-24
+Cust0271,Female,Meghalaya,South,46,Earbuds,Accessories,100.0,2,200.0,19.54,Returned,2023-06-20
+Cust0025,Female,Goa,East,56,Monitor,Electronics,300.0,3,900.0,17.34,Returned,2023-05-22
+Cust0188,Male,Arunachal Pradesh,West,29,Keyboard,Accessories,50.0,3,150.0,12.06,Returned,2023-04-02
+Cust0264,Male,Puducherry,West,59,Keyboard,Accessories,50.0,2,100.0,15.51,Returned,2023-07-16
+Cust0156,Male,Andaman & Nicobar Islands,East,57,Watch,Wearables,200.0,5,1000.0,9.77,Returned,2023-01-27
+Cust0044,Male,Dadra & Nagar Haveli and Daman & Diu,West,30,Earbuds,Accessories,100.0,1,100.0,15.64,Delivered,2023-09-06
+Cust0171,Male,Ladakh,East,21,Earbuds,Accessories,100.0,5,500.0,13.7,In Transit,2023-01-14
+Cust0213,Female,Maharashtra,North,45,Monitor,Electronics,300.0,4,1200.0,14.76,Delivered,2023-01-02
+Cust0261,Male,Bihar,North,49,Mouse,Accessories,30.0,3,90.0,11.71,Delivered,2023-11-09
+Cust0145,Male,Madhya Pradesh,North,51,Earbuds,Accessories,100.0,4,400.0,10.89,Delivered,2023-01-14
+Cust0199,Male,Rajasthan,North,41,Monitor,Electronics,300.0,1,300.0,9.5,Delivered,2023-06-11
+Cust0111,Female,Karnataka,West,19,Monitor,Electronics,300.0,3,900.0,13.79,In Transit,2023-05-16
+Cust0124,Male,Gujarat,South,53,Phone,Electronics,800.0,1,800.0,5.36,Returned,2023-03-16
+Cust0010,Male,Telangana,South,37,Watch,Wearables,200.0,2,400.0,14.16,Delivered,2023-06-06
+Cust0225,Male,Jharkhand,West,65,Monitor,Electronics,300.0,4,1200.0,10.09,Returned,2023-01-31
+Cust0035,Female,Punjab,West,20,Mouse,Accessories,30.0,4,120.0,5.19,Returned,2023-07-22
+Cust0174,Male,Jammu & Kashmir,North,68,Mouse,Accessories,30.0,2,60.0,9.28,Delivered,2023-05-04
+Cust0219,Female,Uttarakhand,South,48,Keyboard,Accessories,50.0,5,250.0,14.34,Delivered,2023-09-28
+Cust0198,Male,Himachal Pradesh,South,56,Monitor,Electronics,300.0,2,600.0,17.13,In Transit,2023-08-01
+Cust0139,Male,Tripura,North,57,Monitor,Electronics,300.0,1,300.0,13.55,Delivered,2023-09-26
+Cust0149,Male,Meghalaya,West,40,Mouse,Accessories,30.0,5,150.0,9.01,Returned,2023-11-14
+Cust0036,Female,Nagaland,South,33,Earbuds,Accessories,100.0,5,500.0,8.27,In Transit,2023-06-30
+Cust0029,Female,Goa,West,66,Laptop,Electronics,1500.0,2,3000.0,9.26,In Transit,2023-10-10
+Cust0071,Male,Arunachal Pradesh,West,46,Monitor,Electronics,300.0,3,900.0,18.83,Returned,2023-09-19
+Cust0108,Female,Mizoram,East,49,Monitor,Electronics,300.0,1,300.0,6.55,Delivered,2024-01-03
+Cust0142,Male,Chandigarh,North,32,Laptop,Electronics,1500.0,1,1500.0,8.53,In Transit,2023-08-11
+Cust0025,Male,Puducherry,West,56,Monitor,Electronics,300.0,1,300.0,8.87,Returned,2023-07-25
+Cust0031,Female,Andaman & Nicobar Islands,South,67,Watch,Wearables,200.0,1,200.0,5.45,Returned,2023-09-30
+Cust0159,Male,Dadra & Nagar Haveli and Daman & Diu,North,49,Earbuds,Accessories,100.0,2,200.0,10.39,Returned,2023-10-26
+Cust0094,Male,Lakshadweep,South,30,Earbuds,Accessories,100.0,4,400.0,13.94,Delivered,2023-12-22
+Cust0072,Male,Ladakh,East,21,Earbuds,Accessories,100.0,4,400.0,12.96,In Transit,2023-09-13
+Cust0078,Female,Uttar Pradesh,South,38,Keyboard,Accessories,50.0,4,200.0,11.0,Returned,2023-12-26
+Cust0105,Male,Maharashtra,West,27,Laptop,Electronics,1500.0,2,3000.0,13.22,In Transit,2023-09-06
+Cust0152,Male,Bihar,North,69,Monitor,Electronics,300.0,5,1500.0,17.75,In Transit,2023-11-14
+Cust0160,Female,West Bengal,West,69,Phone,Electronics,800.0,3,2400.0,15.53,In Transit,2023-04-25
+Cust0248,Female,Madhya Pradesh,South,67,Laptop,Electronics,1500.0,1,1500.0,13.92,Delivered,2023-07-26
+Cust0133,Male,Tamil Nadu,West,47,Watch,Wearables,200.0,3,600.0,13.73,Delivered,2023-06-15
+Cust0260,Male,Rajasthan,West,32,Monitor,Electronics,300.0,3,900.0,8.48,Delivered,2023-05-22
+Cust0177,Female,Gujarat,East,29,Mouse,Accessories,30.0,1,30.0,11.33,In Transit,2023-02-28
+Cust0195,Female,Odisha,East,48,Watch,Wearables,200.0,5,1000.0,10.9,In Transit,2023-05-04
+Cust0058,Female,Kerala,North,42,Mouse,Accessories,30.0,5,150.0,8.28,Returned,2023-11-14
+Cust0066,Female,Assam,North,37,Phone,Electronics,800.0,1,800.0,12.78,Returned,2023-01-03
+Cust0208,Female,Chhattisgarh,South,57,Monitor,Electronics,300.0,1,300.0,6.55,Delivered,2023-04-13
+Cust0196,Female,Haryana,East,37,Keyboard,Accessories,50.0,4,200.0,12.81,Delivered,2023-01-05
+Cust0250,Female,Delhi,North,64,Laptop,Electronics,1500.0,1,1500.0,18.19,In Transit,2023-05-22
+Cust0227,Male,Jammu & Kashmir,South,54,Watch,Wearables,200.0,3,600.0,16.36,In Transit,2023-08-10
+Cust0177,Female,Himachal Pradesh,East,29,Watch,Wearables,200.0,4,800.0,17.93,Delivered,2023-02-25
+Cust0066,Male,Meghalaya,West,37,Mouse,Accessories,30.0,3,90.0,13.86,Delivered,2023-10-17
+Cust0117,Male,Manipur,North,22,Mouse,Accessories,30.0,5,150.0,18.22,Returned,2023-01-25
+Cust0107,Male,Arunachal Pradesh,South,49,Keyboard,Accessories,50.0,5,250.0,9.87,Returned,2023-11-03
+Cust0271,Male,Mizoram,West,49,Watch,Wearables,200.0,2,400.0,8.05,In Transit,2023-04-10
+Cust0149,Male,Sikkim,North,40,Watch,Wearables,200.0,4,800.0,11.68,Delivered,2023-12-27
+Cust0042,Female,Puducherry,East,57,Phone,Electronics,800.0,2,1600.0,9.01,In Transit,2023-11-08
+Cust0106,Female,Andaman & Nicobar Islands,South,50,Earbuds,Accessories,100.0,3,300.0,17.63,Delivered,2023-12-07
+Cust0235,Male,Dadra & Nagar Haveli and Daman & Diu,West,19,Monitor,Electronics,300.0,1,300.0,7.48,In Transit,2023-03-06
+Cust0220,Male,Lakshadweep,South,49,Mouse,Accessories,30.0,1,30.0,6.7,In Transit,2023-05-07
+Cust0264,Female,Ladakh,South,49,Mouse,Accessories,30.0,5,150.0,14.88,Delivered,2023-12-07
+Cust0020,Female,Uttar Pradesh,South,55,Phone,Electronics,800.0,4,3200.0,8.31,Returned,2023-09-13
+Cust0022,Female,Bihar,South,33,Keyboard,Accessories,50.0,2,100.0,16.28,Returned,2023-04-20
+Cust0271,Male,Madhya Pradesh,East,46,Monitor,Electronics,300.0,4,1200.0,19.38,In Transit,2023-11-20
+Cust0197,Female,Tamil Nadu,West,54,Mouse,Accessories,30.0,3,90.0,14.77,In Transit,2023-12-09
+Cust0135,Male,Rajasthan,West,41,Watch,Wearables,200.0,1,200.0,13.72,In Transit,2023-06-06
+Cust0174,Male,Karnataka,West,68,Mouse,Accessories,30.0,5,150.0,16.66,In Transit,2023-12-12
+Cust0058,Male,Andhra Pradesh,West,42,Earbuds,Accessories,100.0,5,500.0,5.43,Delivered,2023-10-24
+Cust0152,Male,Odisha,East,69,Watch,Wearables,200.0,5,1000.0,7.71,In Transit,2023-10-25
+Cust0231,Male,Telangana,South,49,Keyboard,Accessories,50.0,2,100.0,13.53,In Transit,2023-07-13
+Cust0288,Male,Kerala,North,49,Keyboard,Accessories,50.0,3,150.0,6.88,Returned,2023-05-28
+Cust0296,Male,Jharkhand,South,50,Monitor,Electronics,300.0,5,1500.0,8.08,Returned,2024-01-03
+Cust0155,Female,Assam,East,41,Monitor,Electronics,300.0,1,300.0,16.71,Delivered,2023-10-11
+Cust0128,Female,Punjab,South,49,Monitor,Electronics,300.0,3,900.0,14.38,Returned,2023-02-28
+Cust0178,Male,Chhattisgarh,North,44,Watch,Wearables,200.0,3,600.0,11.82,Delivered,2023-04-18
+Cust0298,Male,Haryana,South,58,Phone,Electronics,800.0,2,1600.0,12.94,Returned,2023-11-11
+Cust0091,Female,Jammu & Kashmir,West,30,Mouse,Accessories,30.0,3,90.0,11.78,Returned,2023-08-14
+Cust0255,Male,Meghalaya,West,49,Phone,Electronics,800.0,3,2400.0,10.5,Delivered,2023-02-18
+Cust0044,Female,Manipur,South,30,Monitor,Electronics,300.0,1,300.0,14.91,In Transit,2023-07-29
+Cust0122,Male,Goa,East,68,Monitor,Electronics,300.0,3,900.0,16.44,Delivered,2023-12-16
+Cust0220,Male,Arunachal Pradesh,West,67,Laptop,Electronics,1500.0,2,3000.0,13.04,Returned,2023-03-30
+Cust0182,Male,Mizoram,East,19,Earbuds,Accessories,100.0,2,200.0,14.11,Returned,2023-01-22
+Cust0081,Male,Sikkim,North,38,Monitor,Electronics,300.0,2,600.0,5.79,Returned,2023-01-19
+Cust0224,Male,Chandigarh,South,57,Watch,Wearables,200.0,4,800.0,13.93,Delivered,2023-12-13
+Cust0263,Female,Andaman & Nicobar Islands,West,40,Monitor,Electronics,300.0,1,300.0,11.65,Delivered,2023-07-22
+Cust0052,Female,Dadra & Nagar Haveli and Daman & Diu,North,66,Keyboard,Accessories,50.0,4,200.0,14.49,Delivered,2023-06-06
+Cust0253,Male,Lakshadweep,North,51,Monitor,Electronics,300.0,5,1500.0,14.23,In Transit,2023-08-03
+Cust0095,Male,Ladakh,North,60,Monitor,Electronics,300.0,2,600.0,15.88,In Transit,2023-01-12
+Cust0031,Male,Uttar Pradesh,East,67,Keyboard,Accessories,50.0,1,50.0,19.41,In Transit,2023-07-29
+Cust0077,Male,Bihar,West,50,Mouse,Accessories,30.0,4,120.0,17.84,Returned,2023-03-09
+Cust0073,Male,West Bengal,South,19,Watch,Wearables,200.0,3,600.0,10.07,In Transit,2023-11-18
+Cust0173,Male,Madhya Pradesh,West,65,Mouse,Accessories,30.0,5,150.0,15.11,Delivered,2023-08-31
+Cust0218,Female,Tamil Nadu,East,36,Monitor,Electronics,300.0,4,1200.0,11.23,In Transit,2023-08-17
+Cust0274,Male,Rajasthan,South,51,Keyboard,Accessories,50.0,5,250.0,15.38,Returned,2023-08-07
+Cust0285,Female,Gujarat,South,58,Monitor,Electronics,300.0,4,1200.0,13.4,Delivered,2023-03-31
+Cust0117,Female,Andhra Pradesh,South,22,Earbuds,Accessories,100.0,3,300.0,7.7,Delivered,2023-07-20
+Cust0208,Male,Odisha,North,57,Mouse,Accessories,30.0,4,120.0,15.44,Delivered,2023-06-12
+Cust0107,Female,Telangana,South,67,Earbuds,Accessories,100.0,5,500.0,8.74,Returned,2023-06-08
+Cust0145,Male,Kerala,North,49,Earbuds,Accessories,100.0,4,400.0,14.68,In Transit,2023-12-08
+Cust0195,Female,Punjab,West,48,Keyboard,Accessories,50.0,3,150.0,6.42,In Transit,2023-10-31
+Cust0185,Female,Chhattisgarh,South,29,Monitor,Electronics,300.0,5,1500.0,18.18,In Transit,2023-09-06
+Cust0281,Female,Haryana,South,49,Keyboard,Accessories,50.0,3,150.0,5.62,In Transit,2023-03-05
+Cust0061,Female,Delhi,South,35,Phone,Electronics,800.0,1,800.0,17.3,In Transit,2023-05-07
+Cust0232,Male,Jammu & Kashmir,East,44,Mouse,Accessories,30.0,3,90.0,14.91,In Transit,2023-10-20
+Cust0013,Female,Uttarakhand,South,55,Watch,Wearables,200.0,4,800.0,7.31,Returned,2023-03-16
+Cust0058,Female,Himachal Pradesh,West,42,Keyboard,Accessories,50.0,1,50.0,8.05,Delivered,2023-07-13
+Cust0159,Female,Tripura,North,18,Laptop,Electronics,1500.0,1,1500.0,5.29,Returned,2023-01-21
+Cust0281,Female,Manipur,North,44,Monitor,Electronics,300.0,2,600.0,19.97,In Transit,2023-09-30
+Cust0213,Female,Nagaland,South,49,Watch,Wearables,200.0,5,1000.0,9.18,In Transit,2023-10-31
+Cust0286,Male,Goa,West,63,Keyboard,Accessories,50.0,2,100.0,6.28,Returned,2023-03-21
+Cust0136,Female,Arunachal Pradesh,East,36,Keyboard,Accessories,50.0,4,200.0,9.3,Returned,2023-07-09
+Cust0228,Male,Mizoram,West,25,Keyboard,Accessories,50.0,1,50.0,18.71,In Transit,2023-12-07
+Cust0124,Female,Sikkim,North,49,Earbuds,Accessories,100.0,5,500.0,14.28,Returned,2023-06-02
+Cust0201,Male,Chandigarh,West,49,Phone,Electronics,800.0,1,800.0,12.3,Delivered,2023-05-30
+Cust0201,Female,Dadra & Nagar Haveli and Daman & Diu,North,49,Watch,Wearables,200.0,3,600.0,9.26,Delivered,2023-10-23
+Cust0104,Female,Lakshadweep,East,40,Keyboard,Accessories,50.0,4,200.0,15.14,Delivered,2023-06-17
+Cust0035,Female,Maharashtra,South,20,Keyboard,Accessories,50.0,3,150.0,11.05,Returned,2023-09-16
+Cust0273,Female,Bihar,South,55,Mouse,Accessories,30.0,3,90.0,11.24,Returned,2023-09-09
+Cust0228,Female,West Bengal,West,25,Phone,Electronics,800.0,1,800.0,7.25,In Transit,2023-03-09
+Cust0088,Male,Karnataka,West,66,Monitor,Electronics,300.0,1,300.0,7.84,In Transit,2023-12-08
+Cust0287,Female,Gujarat,South,60,Phone,Electronics,800.0,4,3200.0,9.99,Returned,2023-06-29
+Cust0116,Male,Andhra Pradesh,South,20,Monitor,Electronics,300.0,2,600.0,9.77,Returned,2023-09-24
+Cust0037,Female,Odisha,West,51,Phone,Electronics,800.0,3,2400.0,15.28,In Transit,2023-05-22
+Cust0215,Female,Telangana,East,35,Mouse,Accessories,30.0,3,90.0,8.79,Returned,2023-07-29
+Cust0104,Male,Kerala,West,40,Keyboard,Accessories,50.0,4,200.0,12.79,Delivered,2023-10-19
+Cust0298,Female,Assam,East,58,Mouse,Accessories,30.0,4,120.0,8.85,Returned,2023-06-21
+Cust0079,Male,Punjab,South,26,Keyboard,Accessories,50.0,2,100.0,9.76,In Transit,2023-06-13
+Cust0021,Female,Chhattisgarh,East,43,Watch,Wearables,200.0,1,200.0,6.18,In Transit,2023-12-28
+Cust0064,Female,Jammu & Kashmir,West,61,Earbuds,Accessories,100.0,1,100.0,6.6,Returned,2023-03-20
+Cust0148,Female,Uttarakhand,North,67,Mouse,Accessories,30.0,4,120.0,19.59,In Transit,2023-02-20
+Cust0081,Female,Himachal Pradesh,West,38,Monitor,Electronics,300.0,4,1200.0,12.55,Delivered,2023-08-27
+Cust0091,Male,Manipur,South,30,Earbuds,Accessories,100.0,2,200.0,7.01,In Transit,2023-03-18
+Cust0112,Male,Nagaland,East,33,Laptop,Electronics,1500.0,2,3000.0,14.97,Delivered,2023-01-17
+Cust0030,Female,Goa,West,44,Earbuds,Accessories,100.0,4,400.0,10.03,In Transit,2023-05-11
+Cust0276,Male,Arunachal Pradesh,South,66,Keyboard,Accessories,50.0,2,100.0,8.51,In Transit,2023-03-10
+Cust0034,Female,Mizoram,West,65,Keyboard,Accessories,50.0,1,50.0,7.55,Delivered,2023-06-27
+Cust0271,Female,Sikkim,North,46,Mouse,Accessories,30.0,4,120.0,18.31,In Transit,2023-11-07
+Cust0122,Male,Puducherry,North,68,Laptop,Electronics,1500.0,2,3000.0,18.77,Returned,2023-10-27
+Cust0052,Male,Dadra & Nagar Haveli and Daman & Diu,North,66,Phone,Electronics,800.0,4,3200.0,15.69,In Transit,2023-05-27
+Cust0176,Male,Lakshadweep,South,49,Keyboard,Accessories,50.0,4,200.0,11.55,Delivered,2023-10-01
+Cust0276,Male,Ladakh,West,66,Phone,Electronics,800.0,3,2400.0,15.27,In Transit,2023-05-05
+Cust0185,Female,Uttar Pradesh,West,29,Keyboard,Accessories,50.0,4,200.0,6.75,Delivered,2023-12-22
+Cust0253,Female,Maharashtra,East,51,Earbuds,Accessories,100.0,2,200.0,5.79,Delivered,2023-06-13
+Cust0055,Male,Bihar,East,45,Watch,Wearables,200.0,4,800.0,10.62,Returned,2023-01-11
+Cust0229,Female,West Bengal,North,49,Monitor,Electronics,300.0,1,300.0,5.83,Delivered,2023-02-07
+Cust0028,Male,Tamil Nadu,East,50,Mouse,Accessories,30.0,5,150.0,6.26,Delivered,2023-04-07
+Cust0011,Male,Rajasthan,South,54,Earbuds,Accessories,100.0,1,100.0,19.25,Delivered,2023-12-18
+Cust0259,Male,Karnataka,West,59,Mouse,Accessories,30.0,2,60.0,18.17,In Transit,2023-11-17
+Cust0296,Female,Gujarat,West,50,Monitor,Electronics,300.0,1,300.0,5.94,Returned,2023-12-26
+Cust0101,Male,Andhra Pradesh,East,53,Earbuds,Accessories,100.0,3,300.0,15.61,In Transit,2023-12-04
+Cust0288,Male,Odisha,West,55,Laptop,Electronics,1500.0,2,3000.0,9.06,Delivered,2023-06-08
+Cust0179,Male,Kerala,North,45,Monitor,Electronics,300.0,4,1200.0,7.16,In Transit,2023-11-13
+Cust0293,Male,Jharkhand,West,32,Monitor,Electronics,300.0,2,600.0,9.52,In Transit,2023-10-17
+Cust0120,Female,Assam,North,35,Earbuds,Accessories,100.0,4,400.0,12.85,Delivered,2023-07-23
+Cust0218,Female,Chhattisgarh,East,36,Mouse,Accessories,30.0,5,150.0,6.78,In Transit,2023-07-18
+Cust0018,Female,Haryana,South,38,Keyboard,Accessories,50.0,5,250.0,12.25,In Transit,2023-05-12
+Cust0116,Male,Uttarakhand,South,20,Mouse,Accessories,30.0,3,90.0,16.07,Returned,2023-09-30
+Cust0152,Female,Himachal Pradesh,West,69,Keyboard,Accessories,50.0,4,200.0,18.96,Returned,2023-05-20
+Cust0290,Female,Tripura,East,37,Watch,Wearables,200.0,4,800.0,5.98,In Transit,2023-04-27
+Cust0293,Male,Meghalaya,South,32,Monitor,Electronics,300.0,2,600.0,14.24,Delivered,2023-03-27
+Cust0080,Male,Manipur,South,51,Monitor,Electronics,300.0,5,1500.0,11.39,Returned,2023-07-31
+Cust0134,Female,Nagaland,North,58,Keyboard,Accessories,50.0,4,200.0,17.65,In Transit,2023-02-11
+Cust0211,Female,Mizoram,West,35,Monitor,Electronics,300.0,5,1500.0,18.94,Returned,2023-03-06
+Cust0095,Female,Sikkim,South,60,Monitor,Electronics,300.0,3,900.0,19.78,In Transit,2023-02-26
+Cust0226,Male,Chandigarh,North,43,Phone,Electronics,800.0,4,3200.0,10.65,Returned,2023-02-25
+Cust0238,Female,Puducherry,North,26,Watch,Wearables,200.0,4,800.0,14.25,Delivered,2023-01-03
+Cust0274,Male,Andaman & Nicobar Islands,West,51,Monitor,Electronics,300.0,4,1200.0,6.26,Returned,2023-12-28
+Cust0225,Male,Dadra & Nagar Haveli and Daman & Diu,South,65,Keyboard,Accessories,50.0,3,150.0,12.69,Delivered,2023-11-18
+Cust0233,Male,Lakshadweep,West,24,Watch,Wearables,200.0,3,600.0,19.39,In Transit,2023-03-11
+Cust0208,Male,Ladakh,North,57,Earbuds,Accessories,100.0,4,400.0,14.49,In Transit,2023-09-19
+Cust0006,Male,Uttar Pradesh,South,52,Watch,Wearables,200.0,5,1000.0,13.13,In Transit,2023-05-15
+Cust0181,Male,Maharashtra,North,59,Monitor,Electronics,300.0,4,1200.0,15.92,In Transit,2023-10-23
+Cust0126,Male,Bihar,West,66,Watch,Wearables,200.0,5,1000.0,12.06,Returned,2023-03-07
+Cust0118,Male,West Bengal,East,23,Keyboard,Accessories,50.0,1,50.0,16.34,In Transit,2023-01-16
+Cust0007,Female,Madhya Pradesh,North,52,Watch,Wearables,200.0,3,600.0,15.85,Delivered,2023-04-10
+Cust0263,Female,Tamil Nadu,South,49,Earbuds,Accessories,100.0,3,300.0,19.01,In Transit,2023-09-13
+Cust0172,Female,Karnataka,East,56,Mouse,Accessories,30.0,4,120.0,5.17,In Transit,2023-11-23
+Cust0114,Male,Gujarat,South,49,Phone,Electronics,800.0,3,2400.0,15.04,In Transit,2023-08-12
+Cust0234,Female,Odisha,South,44,Watch,Wearables,200.0,1,200.0,7.67,Returned,2023-07-08
+Cust0182,Female,Telangana,North,19,Keyboard,Accessories,50.0,3,150.0,5.76,In Transit,2023-07-25
+Cust0232,Male,Jharkhand,West,44,Earbuds,Accessories,100.0,1,100.0,6.43,Returned,2023-07-28
+Cust0160,Male,Assam,West,69,Laptop,Electronics,1500.0,1,1500.0,7.32,Returned,2023-09-19
+Cust0105,Female,Punjab,South,27,Watch,Wearables,200.0,2,400.0,9.97,Returned,2023-01-18
+Cust0065,Female,Chhattisgarh,West,41,Watch,Wearables,200.0,5,1000.0,12.79,In Transit,2023-01-06
+Cust0220,Female,Haryana,North,49,Mouse,Accessories,30.0,4,120.0,17.23,Returned,2023-07-09
+Cust0150,Male,Delhi,West,63,Mouse,Accessories,62.19,5,150.0,10.81,Delivered,2023-07-01
+Cust0300,Male,Jammu & Kashmir,East,66,Watch,Wearables,200.0,4,800.0,16.99,Returned,2023-10-15
+Cust0066,Female,Uttarakhand,North,37,Monitor,Electronics,300.0,3,900.0,17.15,In Transit,2024-01-03
+Cust0255,Male,Himachal Pradesh,South,39,Laptop,Electronics,1500.0,2,3000.0,11.24,Returned,2023-11-16
+Cust0154,Female,Tripura,North,31,Monitor,Electronics,300.0,2,600.0,5.84,In Transit,2023-08-19
+Cust0112,Female,Meghalaya,West,33,Phone,Electronics,800.0,2,1600.0,7.61,Returned,2023-12-08
+Cust0130,Male,Manipur,East,68,Earbuds,Accessories,100.0,4,400.0,14.97,Returned,2023-12-09
+Cust0061,Female,Nagaland,South,35,Monitor,Electronics,300.0,1,300.0,15.16,Returned,2023-10-25
+Cust0046,Male,Goa,East,22,Laptop,Electronics,1500.0,2,3000.0,15.58,Delivered,2023-12-16
+Cust0200,Female,Arunachal Pradesh,North,68,Laptop,Electronics,1500.0,1,1500.0,5.57,Delivered,2023-08-06
+Cust0101,Female,Sikkim,West,53,Phone,Electronics,800.0,4,3200.0,14.35,Delivered,2023-06-27
+Cust0113,Female,Chandigarh,West,38,Keyboard,Accessories,50.0,4,200.0,19.17,Returned,2023-01-26
+Cust0076,Male,Puducherry,South,26,Mouse,Accessories,30.0,1,30.0,10.22,Delivered,2023-10-26
+Cust0120,Male,Andaman & Nicobar Islands,North,35,Keyboard,Accessories,50.0,3,150.0,12.89,In Transit,2023-01-30
+Cust0265,Female,Dadra & Nagar Haveli and Daman & Diu,North,38,Keyboard,Accessories,50.0,4,200.0,7.52,In Transit,2023-05-29
+Cust0214,Female,Lakshadweep,South,45,Monitor,Electronics,300.0,2,600.0,9.09,In Transit,2023-10-02
+Cust0058,Male,Ladakh,North,42,Monitor,Electronics,300.0,4,1200.0,5.56,In Transit,2023-06-06
+Cust0288,Male,Uttar Pradesh,North,49,Watch,Wearables,200.0,2,400.0,19.66,Returned,2023-01-31
+Cust0210,Male,Maharashtra,South,30,Monitor,Electronics,300.0,1,300.0,11.26,Returned,2023-12-31
+Cust0116,Male,Bihar,South,20,Mouse,Accessories,30.0,1,30.0,5.41,In Transit,2023-01-05
+Cust0059,Female,West Bengal,South,18,Laptop,Electronics,1500.0,2,3000.0,10.13,Delivered,2023-06-10
+Cust0239,Female,Madhya Pradesh,South,35,Phone,Electronics,800.0,4,3200.0,7.74,Delivered,2023-05-26
+Cust0099,Male,Tamil Nadu,West,49,Watch,Wearables,200.0,1,200.0,8.28,In Transit,2023-10-06
+Cust0018,Female,Rajasthan,South,38,Monitor,Electronics,300.0,2,600.0,17.38,Delivered,2023-04-16
+Cust0028,Male,Karnataka,West,50,Keyboard,Accessories,50.0,4,200.0,11.39,Delivered,2023-01-17
+Cust0053,Female,Andhra Pradesh,South,25,Watch,Wearables,200.0,1,200.0,6.96,Returned,2023-11-20
+Cust0045,Male,Telangana,East,21,Earbuds,Accessories,100.0,4,400.0,18.3,Delivered,2023-07-26
+Cust0238,Male,Jharkhand,East,26,Monitor,Electronics,621.91,2,600.0,7.02,In Transit,2024-01-03
+Cust0239,Female,Punjab,East,35,Mouse,Accessories,30.0,5,150.0,13.08,Delivered,2023-08-16
+Cust0268,Female,Chhattisgarh,South,21,Mouse,Accessories,30.0,3,90.0,10.49,Delivered,2023-08-11
+Cust0087,Female,Delhi,North,49,Laptop,Electronics,1500.0,2,3000.0,11.24,In Transit,2023-07-28
+Cust0077,Female,Jammu & Kashmir,North,49,Monitor,Electronics,621.91,3,900.0,14.86,In Transit,2023-04-27
+Cust0242,Male,Himachal Pradesh,South,58,Watch,Wearables,200.0,5,1000.0,10.84,In Transit,2023-10-22
+Cust0216,Male,Meghalaya,East,53,Mouse,Accessories,30.0,2,60.0,8.58,Returned,2023-10-27
+Cust0016,Female,Manipur,West,49,Keyboard,Accessories,50.0,3,150.0,10.05,In Transit,2023-11-26
+Cust0196,Male,Nagaland,South,37,Watch,Wearables,200.0,2,400.0,18.38,Delivered,2023-02-17
+Cust0148,Male,Goa,South,67,Monitor,Electronics,300.0,3,900.0,19.76,Delivered,2023-11-09
+Cust0295,Female,Arunachal Pradesh,West,26,Mouse,Accessories,30.0,1,30.0,13.87,In Transit,2023-06-10
+Cust0048,Male,Mizoram,East,34,Watch,Wearables,200.0,3,600.0,16.93,In Transit,2023-04-13
+Cust0115,Female,Sikkim,South,53,Mouse,Accessories,30.0,3,90.0,6.18,Delivered,2023-04-25
+Cust0264,Female,Chandigarh,East,49,Phone,Electronics,800.0,4,3200.0,17.44,Delivered,2023-03-03
+Cust0216,Male,Puducherry,South,53,Monitor,Electronics,300.0,3,900.0,12.14,Returned,2023-03-14
+Cust0029,Male,Andaman & Nicobar Islands,South,66,Monitor,Electronics,300.0,1,300.0,17.09,In Transit,2023-04-03
+Cust0180,Male,Dadra & Nagar Haveli and Daman & Diu,South,68,Keyboard,Accessories,50.0,1,50.0,11.23,Delivered,2023-04-02
+Cust0228,Female,Uttar Pradesh,East,25,Watch,Wearables,200.0,2,400.0,6.46,In Transit,2023-10-19
+Cust0242,Female,Bihar,North,58,Watch,Wearables,200.0,3,600.0,14.74,Returned,2023-09-29
+Cust0142,Male,West Bengal,South,32,Laptop,Electronics,1500.0,1,1500.0,6.92,In Transit,2023-12-26
+Cust0131,Male,Madhya Pradesh,East,67,Mouse,Accessories,30.0,1,30.0,13.84,Delivered,2023-06-08
+Cust0126,Male,Tamil Nadu,North,66,Keyboard,Accessories,50.0,4,200.0,10.69,Delivered,2023-06-03
+Cust0265,Male,Rajasthan,West,38,Earbuds,Accessories,100.0,3,300.0,8.2,Returned,2023-11-30
+Cust0003,Male,Karnataka,North,63,Mouse,Accessories,30.0,3,90.0,9.04,Delivered,2023-02-14
+Cust0212,Male,Gujarat,West,62,Keyboard,Accessories,50.0,2,100.0,8.68,In Transit,2023-07-02
+Cust0106,Female,Andhra Pradesh,West,50,Phone,Electronics,800.0,1,800.0,7.34,In Transit,2023-06-13
+Cust0118,Male,Odisha,West,23,Monitor,Electronics,300.0,4,1200.0,11.76,Returned,2023-03-28
+Cust0126,Male,Telangana,East,66,Earbuds,Accessories,100.0,5,500.0,5.4,Returned,2023-12-24
+Cust0292,Male,Kerala,South,21,Mouse,Accessories,30.0,4,120.0,13.68,Delivered,2023-05-24
+Cust0291,Female,Jharkhand,South,49,Monitor,Electronics,300.0,3,900.0,15.81,In Transit,2023-05-21
+Cust0085,Female,Assam,North,18,Keyboard,Accessories,50.0,5,250.0,16.0,Delivered,2023-01-05
+Cust0166,Female,Punjab,West,29,Mouse,Accessories,30.0,4,120.0,11.36,Returned,2023-11-19
+Cust0040,Female,Chhattisgarh,East,49,Keyboard,Accessories,50.0,5,250.0,10.46,Returned,2023-08-02
+Cust0295,Male,Haryana,North,49,Monitor,Electronics,300.0,1,300.0,9.06,Returned,2023-06-16
+Cust0281,Female,Jammu & Kashmir,East,44,Earbuds,Accessories,100.0,3,300.0,13.94,In Transit,2023-09-28
+Cust0019,Male,Uttarakhand,South,69,Phone,Electronics,800.0,4,3200.0,19.42,Delivered,2023-11-07
+Cust0004,Male,Himachal Pradesh,North,65,Keyboard,Accessories,50.0,5,250.0,5.92,Returned,2023-04-04
+Cust0069,Female,Meghalaya,East,66,Earbuds,Accessories,100.0,2,200.0,8.65,In Transit,2023-09-19
+Cust0004,Male,Manipur,North,65,Monitor,Electronics,300.0,3,900.0,9.31,In Transit,2023-02-14
+Cust0060,Male,Nagaland,South,41,Keyboard,Accessories,50.0,3,150.0,5.55,Delivered,2023-03-13
+Cust0154,Male,Goa,North,31,Mouse,Accessories,30.0,1,30.0,9.26,Returned,2023-08-24
+Cust0259,Male,Arunachal Pradesh,East,59,Monitor,Electronics,300.0,3,900.0,19.36,Delivered,2023-05-01
+Cust0241,Female,Sikkim,West,27,Phone,Electronics,800.0,4,3200.0,13.94,In Transit,2023-02-03
+Cust0031,Male,Puducherry,West,67,Phone,Electronics,800.0,3,2400.0,7.05,In Transit,2023-12-14
+Cust0144,Male,Andaman & Nicobar Islands,West,54,Mouse,Accessories,30.0,4,120.0,14.5,Delivered,2023-02-13
+Cust0218,Male,Lakshadweep,East,36,Phone,Electronics,800.0,2,1600.0,16.62,In Transit,2023-08-03
+Cust0050,Female,Uttar Pradesh,West,40,Laptop,Electronics,1500.0,1,1500.0,13.51,Delivered,2023-07-21
+Cust0140,Male,Maharashtra,South,50,Mouse,Accessories,30.0,3,90.0,12.43,Delivered,2023-01-05
+Cust0044,Male,Bihar,South,30,Watch,Wearables,200.0,4,800.0,13.9,Returned,2023-06-28
+Cust0202,Male,West Bengal,South,56,Watch,Wearables,200.0,3,600.0,19.03,In Transit,2024-01-03
+Cust0093,Female,Madhya Pradesh,North,66,Monitor,Electronics,300.0,5,1500.0,18.92,Delivered,2023-05-03
+Cust0258,Female,Tamil Nadu,West,39,Monitor,Electronics,300.0,1,300.0,9.04,Delivered,2023-07-23
+Cust0133,Female,Rajasthan,East,47,Watch,Wearables,200.0,1,200.0,12.27,In Transit,2023-12-13
+Cust0271,Male,Karnataka,South,46,Keyboard,Accessories,50.0,5,250.0,19.63,In Transit,2023-05-22
+Cust0121,Female,Gujarat,North,66,Keyboard,Accessories,50.0,3,150.0,10.21,Returned,2023-12-12
+Cust0028,Male,Andhra Pradesh,East,50,Monitor,Electronics,300.0,4,1200.0,14.64,In Transit,2023-01-28
+Cust0125,Male,Odisha,East,49,Watch,Wearables,200.0,3,600.0,6.36,Returned,2023-11-28
+Cust0137,Female,Telangana,East,19,Monitor,Electronics,300.0,3,900.0,9.79,Delivered,2023-12-02
+Cust0240,Male,Kerala,West,39,Keyboard,Accessories,50.0,1,50.0,6.14,Delivered,2023-05-29
+Cust0268,Male,Jharkhand,East,21,Monitor,Electronics,300.0,4,1200.0,10.03,In Transit,2023-05-16
+Cust0066,Female,Assam,South,37,Earbuds,Accessories,100.0,3,300.0,9.91,In Transit,2023-08-01
+Cust0068,Male,Punjab,South,64,Mouse,Accessories,30.0,1,30.0,19.22,In Transit,2023-07-31
+Cust0221,Male,Chhattisgarh,North,49,Keyboard,Accessories,50.0,3,150.0,10.81,In Transit,2023-07-11
+Cust0266,Male,Haryana,North,29,Laptop,Electronics,1500.0,2,3000.0,16.23,Delivered,2023-01-26
+Cust0113,Male,Jammu & Kashmir,South,38,Monitor,Electronics,300.0,5,1500.0,19.39,Returned,2023-02-26
+Cust0240,Male,Uttarakhand,West,39,Phone,Electronics,800.0,3,2400.0,9.92,In Transit,2023-07-26
+Cust0003,Male,Himachal Pradesh,South,63,Watch,Wearables,200.0,4,800.0,10.23,In Transit,2023-06-07
+Cust0272,Female,Tripura,South,52,Phone,Electronics,800.0,1,800.0,10.65,Delivered,2023-05-29
+Cust0276,Male,Meghalaya,South,66,Monitor,Electronics,300.0,5,1500.0,8.06,Delivered,2023-06-11
+Cust0209,Male,Manipur,North,63,Keyboard,Accessories,50.0,5,250.0,5.88,Delivered,2023-02-12
+Cust0014,Male,Nagaland,South,20,Monitor,Electronics,300.0,1,300.0,7.32,Returned,2023-12-18
+Cust0186,Male,Goa,South,55,Phone,Electronics,800.0,1,800.0,18.74,Returned,2023-07-17
+Cust0198,Male,Arunachal Pradesh,East,56,Laptop,Electronics,1500.0,2,3000.0,19.05,Returned,2023-05-20
+Cust0043,Male,Mizoram,North,22,Keyboard,Accessories,50.0,4,200.0,11.99,Delivered,2023-01-04
+Cust0071,Male,Sikkim,East,46,Monitor,Electronics,300.0,1,300.0,6.17,In Transit,2023-12-10
+Cust0131,Female,Chandigarh,East,67,Phone,Electronics,800.0,3,2400.0,7.3,In Transit,2023-11-17
+Cust0109,Male,Dadra & Nagar Haveli and Daman & Diu,South,57,Watch,Wearables,200.0,3,600.0,5.88,Delivered,2023-01-10
+Cust0189,Male,Lakshadweep,North,38,Keyboard,Accessories,50.0,5,250.0,12.92,Returned,2023-07-19
+Cust0299,Female,Ladakh,South,58,Mouse,Accessories,30.0,2,60.0,9.71,Returned,2023-03-27
+Cust0031,Male,Maharashtra,West,67,Mouse,Accessories,30.0,3,90.0,7.63,Delivered,2023-07-22
+Cust0240,Male,Bihar,West,39,Mouse,Accessories,30.0,5,150.0,5.6,Returned,2023-10-10
+Cust0176,Male,West Bengal,West,51,Keyboard,Accessories,50.0,4,200.0,19.42,In Transit,2023-05-30
+Cust0252,Female,Madhya Pradesh,East,55,Watch,Wearables,200.0,5,1000.0,13.29,Delivered,2023-10-16
+Cust0225,Female,Tamil Nadu,East,49,Mouse,Accessories,30.0,3,90.0,15.46,In Transit,2023-05-04
+Cust0238,Male,Rajasthan,West,26,Mouse,Accessories,30.0,2,60.0,16.34,Returned,2023-11-02
+Cust0276,Female,Karnataka,North,66,Earbuds,Accessories,100.0,4,400.0,7.41,Delivered,2023-01-09
+Cust0255,Female,Gujarat,West,39,Monitor,Electronics,300.0,1,300.0,13.28,Delivered,2023-02-20
+Cust0133,Male,Andhra Pradesh,East,47,Phone,Electronics,800.0,4,3200.0,8.88,In Transit,2023-07-31
+Cust0097,Male,Odisha,East,34,Watch,Wearables,200.0,3,600.0,5.87,Returned,2023-06-25
+Cust0226,Male,Kerala,West,43,Earbuds,Accessories,100.0,2,200.0,15.85,Returned,2023-10-08
+Cust0068,Female,Jharkhand,North,64,Keyboard,Accessories,50.0,5,250.0,13.3,Returned,2023-07-02
+Cust0149,Female,Assam,East,40,Monitor,Electronics,300.0,4,1200.0,17.21,In Transit,2023-07-30
+Cust0299,Female,Chhattisgarh,North,58,Watch,Wearables,200.0,4,800.0,9.43,Returned,2023-08-03
+Cust0123,Male,Haryana,North,52,Watch,Wearables,200.0,2,400.0,5.97,In Transit,2023-09-25
+Cust0142,Male,Uttarakhand,East,32,Earbuds,Accessories,100.0,5,500.0,12.38,Returned,2023-01-01
+Cust0200,Female,Himachal Pradesh,North,68,Phone,Electronics,800.0,4,3200.0,17.32,Returned,2023-08-05
+Cust0079,Male,Tripura,West,26,Watch,Wearables,200.0,2,400.0,7.14,Returned,2023-01-04
+Cust0201,Female,Meghalaya,South,49,Earbuds,Accessories,100.0,1,100.0,17.21,In Transit,2023-01-05
+Cust0133,Male,Manipur,East,47,Laptop,Electronics,1500.0,1,1500.0,19.19,Delivered,2023-04-01
+Cust0055,Female,Nagaland,North,49,Mouse,Accessories,30.0,5,150.0,19.35,Delivered,2023-10-20
